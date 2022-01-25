@@ -1,0 +1,4498 @@
+/* HIDE PORTLET SETTINGS */
+.custom-responsive #content-wrapper .arena-media-class-icon,
+.custom-responsive #content-wrapper .arena-media-class-icon-container img,
+#content-wrapper .portlet-catalogueDetail .arena-detail-reserve .arena-detail-availability,
+.custom-responsive #content-wrapper .portlet-catalogueDetail div.arena-summary-top,
+.custom-responsive #content-wrapper .portlet-catalogueDetail div.arena-summary-bottom,
+.custom-responsive #content-wrapper .portlet-catalogueDetail .arena-other-records a img,
+.custom-responsive #content-wrapper .portlet-catalogueDetail .arena-availsummary-linktoholdings,
+div.arena-patron-create, .arena-patron-reset-password, .arena-review-create, .breadcrumb .active .divider,
+.custom-responsive #content-wrapper .portlet-catalogueDetail div.portlet-topper-arena-go .portlet-title,
+.custom-responsive #wrapper .portlet-simpleSearch .portlet-title,
+.custom-responsive #wrapper .portlet-simpleSearch .arena-bottom-text,
+.custom-responsive #wrapper .portlet-simpleSearch .arena-top-text,
+.custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-label,
+#portlet_listArticleView_WAR_arenaportlets_INSTANCE_67kctc2JkUkn {
+  display: none;
+}
+.bwd #content-wrapper .portlet-journal-content .journal-content-article .sy-wrapper .sy-arrows-container.bottom .sy-prev
+{
+    bottom: 44% !important;  
+}
+.arena-selfreg-fieldcontainer.arena-selfreg-extra_1 {
+    display: none;
+}
+.bwd #content-wrapper .portlet-journal-content .journal-content-article .sy-wrapper .sy-arrows-container.bottom .sy-next {
+    bottom: 44% !important;
+}
+.bwd #content-wrapper .portlet-journal-content .journal-content-article .sy-wrapper .sy-arrows-container .sy-prev, .bwd #content-wrapper .portlet-journal-content .journal-content-article .sy-wrapper .sy-arrows-container .sy-next {
+    height: 55px !important;
+    width: 55px !important;
+    border-radius: 50%;
+    background: rgba(40,40,40,0.5) !important;
+ }
+.bwd #content-wrapper .portlet-journal-content .journal-content-article .sy-wrapper .sy-controls {
+    background: rgba(40,40,40,0.5) !important;
+}
+
+.custom-responsive .scroll .site-title {
+  display: none;
+}
+
+#content-wrapper .portlet-journal-content .journal-content-article .dynamic-cal-events ul li {
+  border-top: medium none !important;
+}
+
+#content-wrapper .portlet-journal-content .dynamic-cal-events button {
+  color: #333;
+}
+
+#content-wrapper div.portlet-boundary.portlet-catalogueDetail {
+  margin-bottom: 0px !important;
+}
+
+#content-wrapper .portlet-title-text {
+  line-height: 2em !important;
+}
+
+.arena-signed-in #mob-login:after {
+  content: "LOGGA UT";
+  font-size: 14px;
+}
+
+#feedframe img {
+  max-height: 220px;
+}
+
+.cclink {
+  font-size: 10px;
+  margin-top: -15px !important;
+}
+
+.bwd #wrapper #content-wrapper .arena-custom-event.arena-record-container h3 {
+  line-height: normal;
+  margin: 0 0 0 85px;
+  padding: 0;
+}
+
+.bwd #wrapper #content-wrapper .arena-record-container h3 {
+  line-height: normal;
+  margin: 4px 0;
+  padding: 0;
+}
+
+.share-data {
+  display: none !important;
+}
+
+#content-wrapper .arena-columns-1-2-1-2-1 #row-5 .journal-content-article p, #content-wrapper .arena-columns-1-2-1-2-1 #row-5 .journal-content-article a {
+  margin-bottom: 0;
+}
+
+.custom-responsive #content-wrapper .arena-input-submit {
+  background-color: #e0e0e0;
+  color: #333;
+}
+
+#content-wrapper .portlet-journal-content .dynamic-cal-extended-container.active .dynamic-cal-header {
+  display: none;
+}
+
+/* hide language portlet to make language script work */
+#wrapper div.portlet-language {
+  display: none;
+}
+.bwd body {
+    font-size: 15px !important;
+    line-height: 1.5em;
+}
+#content-wrapper .portlet-listArticleView .arena-articledet-body ul, #content-wrapper .portlet-articleSingleView .arena-articledet-body ul, #content-wrapper .portlet-journal-content .journal-content-article ul {
+    list-style-position: inside;
+    list-style-type: disc;
+}
+#portlet_56_INSTANCE_kbMUk4QWsgfJ {
+  margin-top: 25px !important;
+}
+
+#p_p_id_56_INSTANCE_2wzPzTMQuhp2_ {
+  margin-top: 25px !important;
+  margin-bottom: -5px !important;
+}
+
+.arena-page-expired-description {
+  background-color: white;
+  font-weight: bold;
+  padding-left: 10px;
+}
+
+.arena-page-expired-link {
+  background-color: white;
+  padding: 10px;
+}
+
+.arena-page-expired-link a {
+  color: #0077b3 !important;
+  font-weight: bold;
+}
+
+.arena-page-expired-title {
+  padding: 10px;
+}
+
+.arena-page-expired-title-value {
+  font-size: 1.5em !important;
+}
+
+#-dynamic-cal-wrapper {
+  padding: 0 15px;
+}
+
+.bwd h1 {
+  font-size: 1.8em !important;
+}
+
+.arena-signed-in .scroll #mob-login:after {
+  content: "";
+}
+
+#content-wrapper .arena-columns-1-2-1-2-1 #row-5 .journal-content-article a:hover {
+  border-bottom: 1px solid #333;
+}
+
+.custom-responsive #content-wrapper #row-5 .portlet-journal-content .bottom-article-col .mail-link {
+  color: #0061a1;
+}
+
+.custom-responsive #content-wrapper #row-5 .portlet-journal-content .bottom-article-col .mail-link:hover {
+  border-bottom: 1px solid #0061a1;
+  color: #0061a1;
+  line-height: 18px;
+}
+
+#portlet_56_INSTANCE_pEqlcFXq6gZt .article-col, #portlet_56_INSTANCE_d7Gg0Y8nFGzB .article-col,
+#portlet_56_INSTANCE_7OV808eRfij2 .article-col, #portlet_56_INSTANCE_98wgz2uROi1A .article-col {
+  clear: none;
+  min-height: 230px;
+  margin-bottom: 40px;
+  width: 50%;
+  float: left;
+}
+
+.arena-articledet-title {
+  padding-top: 0 !important;
+}
+
+#wrapper .horizontal-list .horizontal-list-container {
+  width: 95% !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.arena-articledet-body a, .arena-articledet-body a:visited {
+  text-decoration: none !important;
+  color: #0061a1 !important;
+}
+
+.arena-articledet-body a:hover {
+  border-bottom: 1px solid #0077b3;
+}
+
+#portlet_56_INSTANCE_xq6rJsyEJBCN .journal-content-article .article-col {
+  float: left;
+  margin-bottom: 50px;
+  width: 50%;
+}
+
+.custom-responsive #content-wrapper .portlet-navigation .list-menu h2 {
+  height: 42px;
+  line-height: 46px !important;
+  margin-bottom: 10px !important;
+}
+
+.btn2 {
+  -moz-user-select: none;
+  background-image: none;
+  border-radius: 4px !important;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14.5px !important;
+  font-weight: 400 !important;
+  line-height: 1.42857;
+  margin-bottom: 0;
+  padding: 4px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap !important;
+}
+
+/* GENERAL */
+html {
+  overflow-x: hidden;
+}
+
+.custom-responsive div#banner,
+.custom-responsive div#content-wrapper {
+  width: 100%;
+}
+
+div#content-wrapper {
+  margin: 0 auto;
+  max-width: 1240px;
+  padding: 0;
+  position: relative;
+  width: auto;
+  background-color: #F8F6F5;
+}
+
+body, #banner, div#content-wrapper {
+  background-color: #F8F6F5 !important;
+}
+
+#content-wrapper .arena-columns-1-2-1-2-1 #row-5 .portlet-column-content {
+  margin: 0 20px;
+}
+
+#content-wrapper .portlet-restClient .portlet-body .portlet-body img {
+  width: 65%;
+}
+
+.portlet-body > div #id__restClient__WAR__arenaportlets__INSTANCE__vAMy2x3Ctohe____2 {
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 3px;
+  border: #e9e9e9;
+}
+
+#banner, #content-wrapper .arena-columns-1-2-1-2-1 #row-5 .portlet-column.portlet-column-only {
+  max-width: 100%;
+}
+
+.bwd .page-normal #wrapper .portlet-breadcrumb {
+  margin: 0 0 15px 0 !important;
+}
+
+.bwd .breadcrumb {
+  margin: 0;
+}
+
+#content-wrapper .arena-record-container {
+  background: none repeat scroll 0 0 #fff;
+}
+
+.arena-record-counter > span {
+  padding-right: 15px;
+}
+
+#content-wrapper .arena-header .arena-item-toolbar a, #content-wrapper .arena-renew-loan-continue::before, #content-wrapper .arena-check, #content-wrapper .arena-uncheck {
+  color: #333;
+}
+
+.var-narrow .timeline-header .summary {
+  font-size: 20px;
+}
+
+.timeline-header h1.summary {
+  font-weight: 600;
+}
+
+.timeline-header .custom-timeline-summary, .timeline-header h1.summary {
+  line-height: 20px;
+}
+
+.portlet-content, .portlet-minimized .portlet-content-container {
+  padding: 0px;
+}
+
+#content-wrapper .arena-columns-1-2-1-2-1 .aui-w40 {
+  margin-bottom: 50px;
+}
+
+.custom-responsive #wrapper .portlet-listArticleView .portlet-content-container {
+  padding-bottom: 0px;
+}
+
+#content-wrapper div.tab-row ul li.selected {
+  border-bottom-color: #f8f6f5;
+}
+
+body.portal-popup {
+  position: relative;
+  top: -20px;
+  padding: 0 !important;
+}
+
+.portlet-asset-publisher .asset-full-content.show-asset-title .asset-content {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+#content-wrapper .portlet-articlesFacets .arena-facets-down {
+  padding-bottom: 0px !important;
+}
+
+#content-wrapper .portlet-catalogueDetail .arena-detail-right a.arena-ehub {
+  height: 19px;
+  margin: 5px 5px 8px 0px;
+}
+
+.arena-page-expired-title {
+  background: none repeat scroll 0 0 #fff;
+  font-size: 10px;
+  padding: 10px;
+}
+
+#wrapper h2.portlet-title {
+  margin-bottom: 0px !important;
+}
+
+#content-wrapper .portlet-journal-content .journal-content-article tr:last-child td:last-child {
+  max-width: 120px;
+  overflow: visible;
+  white-space: nowrap;
+  color: #fff;
+}
+
+.custom-responsive #content-wrapper .portlet-journal-content .article-col h3 {
+  font-size: 1.2em;
+  font-weight: 700;
+  padding-bottom: 4px;
+  padding-top: 10px;
+}
+
+.arena-toggle-container .arena-recycle-table .arena-label {
+  font-weight: 700 !important;
+}
+
+#content-wrapper .arena-link-back:before, #page-loader, .custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-container, #content-wrapper .portlet-journal-content .journal-content-article tr:last-child th {
+  display: none;
+}
+
+.arena-search-select .arena-select {
+  display: none !important;
+}
+.custom-responsive #content-wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-title a {
+  color: #333;
+}
+
+.custom-responsive #content-wrapper .arena-header {
+  border-bottom-style: none;
+}
+.arena-articledet-title {
+    color: #76405d !important;
+    font-size: 25px; !important;
+    margin-bottom: 20px !important;
+    margin-top: 15px !important;
+}
+
+.arena-custom-event .arena-record .arena-articledet-title {
+    margin-bottom: 0 !important;
+}
+.arena-article .arena-articledet-body h3 {
+    color: #333 !important;
+    font-weight: 700 !important;
+    font-size: 1.15em !important;
+}
+.current-parent.breadcrumb-truncate {
+  cursor: default;
+  pointer-events: none;
+}
+
+.list-menu.list-menu-style- > h2 a {
+  cursor: default;
+}
+.pgfront .frontsektion {
+    line-height: 1.3em;
+}
+.custom-responsive .scroll #banner .site-name {
+  margin-left: 30px;
+  top: -9px;
+  font-size: 1.05em;
+  font-weight: 400;
+  color: #fff;
+}
+
+.custom-responsive #banner .site-name {
+  height: 35px;
+  display: block;
+  font-size: 1.3em;
+  text-transform: uppercase;
+  color: #09588a;
+  position: relative;
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  width: 490px;
+  margin-left: 45px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+.custom-responsive #wrapper.scroll #banner {
+  border-bottom-width: 0;
+}
+
+#mob-nav > li > button {
+  border: 0 none;
+  cursor: pointer;
+  display: block;
+  float: right;
+  height: 46px;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  width: 60px;
+}
+
+.scroll #banner #site-heading {
+  margin: 12px 0 0 10px;
+  height: 35px;
+}
+
+.custom-responsive #content-wrapper .portlet-listArticleView .arena-header {
+  border-top: 0;
+}
+
+#content-wrapper .portlet-navigation .portlet-content a {
+  margin-bottom: 0;
+}
+
+#wrapper div.portlet-boundary.horizontal-list {
+  border: 1px solid #e9e9e9;
+  padding-top: 21px;
+  border-radius: 3px;
+  background-color: #fff;
+  padding-bottom: 16px;
+  margin-top: 25px;
+}
+
+.bwd .custom-responsive #banner .site-name {
+  font-size: 0.98em;
+}
+
+.custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 #row-1,
+.custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 #row-2,
+.custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 #row-3,
+.custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 #row-4,
+.custom-responsive #content-wrapper .portlet-column.portlet-column-only {
+  max-width: 1240px;
+}
+
+.custom-responsive #content-wrapper .portlet-column-content {
+  margin: 0;
+  padding: 0;
+}
+
+.custom-responsive #content-wrapper .aui-w40 .portlet-column-content {
+  margin-left: 25px;
+  margin-top: 0px;
+}
+
+.custom-responsive #banner {
+  background-image: url("https://bibliotek.vellinge.se/documents/152635/639440/logo_background2.png/43383587-c71b-4f04-8e95-6482e3b89f93?t=1427112731192");
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: 128px auto;
+}
+
+.custom-responsive #banner .logo img {
+  max-height: 52px;
+  max-width: 220px;
+  margin-left: 12px;
+}
+
+.custom-responsive #banner .logo,
+.custom-responsive #banner .site-name {
+  float: left;
+}
+
+.custom-responsive #site-heading {
+  margin: 15px 0 0 0px;
+}
+
+.custom-responsive #mob-menu:before,
+.custom-responsive #mob-lang:before {
+  top: 2px;
+}
+
+.custom-responsive #mob-login:before {
+  top: 3px;
+}
+
+#content-wrapper .portlet-catalogueDetail div.arena-catalogue-detail .arena-detail-title {
+  margin-top: 25px;
+}
+
+.custom-responsive #wrapper .arena-columns-1-2-1-2-1 #row-5 .portlet-column {
+  border: 0;
+}
+
+.custom-responsive #navigation {
+  padding-left: 45px;
+  padding-top: 0;
+}
+
+#wrapper .slick-dots {
+  padding: 15px 0 0;
+  width: 90%;
+}
+
+.custom-responsive #navigation ul li a {
+  font-weight: 100;
+  font-size: 0.87em;
+  line-height: 47px;
+}
+
+#navigation ul li a {
+  display: block;
+  padding: 0px 22px;
+}
+
+.custom-responsive #navigation ul li:first-child {
+  border-left: 1px solid #592644;
+}
+
+.custom-responsive #navigation li.active > ul.child-menu > li:first-child {
+  border-top: 0;
+}
+
+.custom-responsive #content-wrapper .portlet-navigation .list-menu > ul a {
+  font-weight: 100;
+  line-height: 1.2;
+  margin-top: 5px;
+}
+
+.custom-responsive #navigation li.active,
+.custom-responsive #navigation,
+.custom-responsive #navigation li.active .child-menu li:last-child a,
+.scroll #banner .custom-responsive #navigation ul {
+  border-bottom: 0;
+}
+
+.custom-responsive #wrapper #mob-nav #mob-menu {
+  text-align: center;
+}
+
+.custom-responsive #wrapper #mob-nav #mob-search {
+  margin-right: 0px;
+}
+
+.scroll #banner #mob-nav {
+  top: 0px;
+  margin-right: -50px;
+}
+
+.scroll div#banner {
+  min-width: 100% !important;
+  max-height: 48px !important;
+}
+
+div#banner {
+  max-width: 100% !important;
+}
+
+#banner #mob-nav {
+  top: 60px;
+}
+
+.custom-responsive #banner #mob-nav {
+  right: 68px;
+}
+
+.custom-responsive #content-wrapper {
+  font-weight: 400;
+}
+
+#content-wrapper .arena-renew-loan-continue:before,
+#content-wrapper a.arena-link-back, #content-wrapper .arena-record-rss a,
+#content-wrapper .arena-check, #content-wrapper .arena-uncheck, #wrapper .portlet-simpleSearch .arena-extended-search-link:before {
+  font-size: 30px;
+}
+
+#content-wrapper .arena-header .arena-item-toolbar a {
+  font-size: 25px;
+}
+
+#content-wrapper .arena-record-title, #content-wrapper .portlet-listArticleView .arena-articledet-title {
+  font-size: 1.05em;
+}
+
+#wrapper .computerSaysYes, #wrapper li.feedbackPanelINFO {
+  color: #09588a;
+  font-weight: 700;
+  font-size: 1.1em;
+}
+
+div.arena-detail-title {
+  font-size: 1.5em;
+  line-height: 24px;
+}
+
+#content-wrapper .portlet-articlesFacets .arena-field-container.accordion .arena-field-subtitle:after,
+#content-wrapper .arena-review-more a:before, #content-wrapper .portlet-title-text:after,
+#content-wrapper .portlet-catalogueDetail .arena-subtitle:after, #content-wrapper .portlet-catalogueDetail span.arena-minus:before,
+#content-wrapper .portlet-catalogueDetail span.arena-plus:before, #content-wrapper a.arena-toggle-link span:after {
+  font-size: 29px;
+}
+
+#content-wrapper .arena-linktopage:before {
+  display: none;
+}
+
+.lankpil:before {
+  padding-right: 3px;
+  display: inline-block;
+  content: "\f105";
+  font-family: 'FontAwesome';
+  font-style: normal;
+  font-weight: normal !important;
+  color: #3b3b3b;
+}
+
+.lankpilbla:before {
+  padding-right: 3px;
+  display: inline-block;
+  content: "\f105";
+  font-family: 'FontAwesome';
+  font-style: normal;
+  font-weight: normal !important;
+  color: #0061a1;
+}
+
+#content-wrapper .portlet-navigation .list-menu ul > li a::before {
+  content: "\f105";
+  font-family: "FontAwesome";
+  font-style: normal;
+  font-weight: normal !important;
+}
+
+#content-wrapper .portlet-title-text {
+  font-weight: 700;
+}
+
+#content-wrapper .portlet-queryRecordSearchResult .portlet-title-text {
+  font-size: 1.6em;
+}
+
+.custom-responsive #content-wrapper .portlet-journal-content .journal-content-article #google-cal-dynamic-opening-hours {
+  padding: 0px 15px 5px;
+}
+
+#navmenu {
+  background: #76405d;
+  clear: both;
+  float: none;
+  position: relative;
+  top: 58px;
+  border: 1px solid #592644;
+  -webkit-transition: background 0.25s ease 0s;
+  transition: background 0.25s ease 0s;
+}
+
+.custom-responsive .scroll #navmenu {
+  top: -47px;
+}
+
+#content-wrapper .portlet-listArticleView .arena-articledet-body h3, #content-wrapper .portlet-articleSingleView .arena-articledet-body h3, #content-wrapper .portlet-journal-content .journal-content-article h3 {
+  margin-bottom: 2px !important;
+  margin-top: 10px;
+}
+
+/* /GENERAL */
+/* RESPONSIVE SLIDES */
+#wrapper .horizontal-list .portlet-topper-arena-go {
+  margin: 0;
+}
+
+.custom-responsive #wrapper .horizontal-list .portlet-topper-arena-go {
+  margin-left: auto;
+  margin-right: auto;
+  width: 93%;
+}
+
+.custom-responsive #wrapper .slick-prev,
+.custom-responsive #wrapper .slick-next {
+  top: 50px;
+}
+
+.custom-responsive #wrapper .slick-next {
+  right: 0px;
+}
+
+#wrapper .slick-list {
+  height: 184px;
+}
+
+.custom-responsive #wrapper .slick-prev,
+.custom-responsive #wrapper .slick-next,
+.custom-responsive #wrapper a.rslides_nav.next,
+.custom-responsive #wrapper a.rslides_nav.prev {
+  border-radius: 50px !important;
+  height: 50px !important;
+  width: 50px !important;
+  padding: 0;
+  line-height: 50px !important;
+  margin-left: 0;
+}
+
+.custom-responsive #wrapper .slick-prev:before,
+.custom-responsive #wrapper .slick-next:before {
+  line-height: 48px;
+}
+
+.custom-responsive #wrapper .slick-next:before {
+  left: 3px;
+}
+
+.custom-responsive #wrapper .portlet-journal-content .journal-content-article a.next,
+.custom-responsive #wrapper .portlet-journal-content .journal-content-article a.prev {
+  padding: 0;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.custom-responsive #wrapper a.rslides_nav.prev:before {
+  left: -2px;
+  position: relative;
+}
+
+.custom-responsive #wrapper a.rslides_nav.next:before {
+  left: 2px;
+  position: relative;
+}
+
+#wrapper .rslides_controls {
+  bottom: 8px;
+  right: 0;
+  z-index: 50;
+  opacity: 0.8;
+}
+
+#wrapper .rslides_controls .play-slider::before {
+  padding-right: 27px;
+}
+
+/* /RESPONSIVE SLIDES */
+/* HORIZONTAL SLIDES */
+.custom-responsive #wrapper .horizontal-list .arena-record-details .arena-record-author {
+  margin-left: 6px;
+}
+
+.custom-responsive #wrapper .horizontal-list .arena-record-details .arena-record-title, .custom-responsive #wrapper .horizontal-list .arena-record-details .arena-record-author {
+  display: block;
+  text-align: left;
+}
+
+#wrapper .rslidesCaption {
+  padding: 12px;
+}
+
+/* /HORIZONTAL SLIDES */
+/* GOOGLE CALENDAR - DAGENS ?PPETTIDER */
+.custom-responsive #wrapper .aui-w40 .portlet-listArticleView {
+  margin-top: 0px;
+}
+
+.custom-responsive #wrapper .aui-w40 .portlet-listArticleView .portlet-topper-arena-go {
+  border-bottom: 1px solid #e9e9e9;
+  padding-left: 12px;
+}
+
+.custom-responsive #wrapper .aui-w40 .portlet-title-text {
+  color: #76405D;
+  font-size: 1.5em;
+  font-weight: normal;
+  padding-top: 2px;
+}
+
+.custom-responsive #wrapper .aui-w40 .portlet-listArticleView .portlet-content {
+  background-image: none;
+  background-position: 40px 0;
+  background-repeat: no-repeat;
+}
+
+/* /GOOGLE CALENDAR - DAGENS ?PPETTIDER */
+/* SIDE NAVIGATION */
+#content-wrapper .portlet-navigation .list-menu ul > li.selected::before {
+  padding-right: 0;
+}
+
+.custom-responsive #content-wrapper .portlet-navigation .list-menu .layouts.level-1 li a {
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0;
+  background-color: transparent;
+  box-shadow: none;
+  border: medium;
+  padding-left: 10px !important;
+}
+
+#content-wrapper .portlet-navigation .list-menu .breadcrumbs-horizontal > li, #content-wrapper .portlet-navigation .list-menu ul > li::before {
+  padding-right: 0;
+}
+
+.custom-responsive #content-wrapper .portlet-navigation .portlet-content h2 a {
+  margin-bottom: 0;
+  padding: 7px 12px;
+  font-size: 1.05em;
+  margin-top: 2px;
+  cursor: default;
+  pointer-events: none;
+}
+
+.custom-responsive #content-wrapper .portlet-navigation .portlet-content h2 {
+  border-bottom: 1px solid #e9e9e9;
+  margin-bottom: 8px;
+}
+
+.custom-responsive #content-wrapper .portlet-navigation .list-menu {
+  width: 100%;
+  background: none repeat scroll 0 0 #fff;
+  border: 1px solid #e9e9e9;
+  border-radius: 4px;
+  padding-bottom: 20px;
+}
+
+.layouts.level-2 {
+  padding-left: 25px !important;
+}
+
+#content-wrapper .portlet-navigation .list-menu ul > li > ul {
+  margin: 0;
+}
+
+#content-wrapper .portlet-navigation .list-menu ul > li.selected a {
+  color: #333;
+}
+
+#content-wrapper .portlet-navigation .list-menu ul > li::before {
+  content: none;
+}
+
+#content-wrapper .portlet-navigation .list-menu ul > li ul li a::before {
+  content: "";
+}
+
+/* SIDE NAVIGATION */
+/* SIMPLE SEARCH */
+.custom-responsive #wrapper .portlet-simpleSearch {
+  position: absolute;
+  max-width: 410px;
+  top: 60px;
+  right: 85px;
+}
+
+.custom-responsive #wrapper.scroll .portlet-simpleSearch {
+  top: 5px;
+  right: 173px;
+  width: 30%;
+}
+
+#wrapper .portlet-simpleSearch .arena-search-button input.arena-input-submit, #wrapper .portlet-simpleSearch .arena-search-button,
+.custom-responsive #wrapper .portlet-simpleSearch .arena-search-text,
+.custom-responsive #wrapper .portlet-simpleSearch .arena-search-text .arena-input-text {
+  height: 48px;
+}
+
+.custom-responsive #wrapper .portlet-simpleSearch .search-submit-icon:before {
+  top: 10px;
+}
+
+.search-submit-icon:before {
+  font-size: 24px !important;
+}
+
+.custom-responsive #wrapper .portlet-simpleSearch .arena-search-text ::-webkit-input-placeholder {
+  font-style: italic;
+}
+
+.custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-link,
+.custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-link:before {
+  top: 0;
+}
+
+.custom-responsive #wrapper .portlet-simpleSearch .arena-search-container {
+  border: 0;
+  height: 48px;
+  width: 100%;
+  border: 1px solid #d7d6d2;
+  border-radius: 2px;
+}
+
+.custom-responsive #wrapper .portlet-simpleSearch .arena-search-text .arena-input-text {
+  left: 0;
+  position: relative;
+}
+
+#banner .portlet-simpleSearch {
+  width: 40%;
+}
+
+/* /SIMPLE SEARCH */
+/* CALENDAR */
+.custom-responsive #wrapper .arena-custom-event .arena-articledet-event-start,
+.custom-responsive #wrapper .arena-custom-event .arena-articledet-event-end,
+.custom-responsive #wrapper .arena-custom-event .arena-articledet-content-group,
+.custom-responsive #wrapper .arena-custom-event .arena-articledet-subject {
+  margin-left: 95px;
+  font-size: 0.9em;
+  line-height: 1.6em;
+  font-weight: 700;
+}
+
+.custom-responsive #wrapper .arena-custom-event .arena-articledet-event-start .arena-value,
+.custom-responsive #wrapper .arena-custom-event .arena-articledet-event-end .arena-value {
+  font-weight: 700;
+}
+
+.custom-responsive #wrapper .portlet-listArticleView .portlet-content-container {
+  padding-bottom: 15px;
+}
+
+.custom-responsive #wrapper .portlet-listArticleView .arena-record-container {
+  clear: both;
+  padding: 0 8px;
+  margin-bottom: 0;
+  border-bottom: 0;
+}
+
+.custom-responsive #wrapper .arena-custom-event-icon {
+  position: relative;
+  height: 70px;
+  width: 59px;
+  border: 1px solid #ccc;
+  overflow: hidden;
+  float: left;
+  margin: 6px 7px;
+  text-transform: uppercase;
+  box-shadow: 2px 2px 3px #eee;
+}
+
+.custom-responsive #wrapper .arena-custom-event-icon.start {
+  z-index: 100;
+  position: relative;
+}
+
+.custom-responsive #wrapper .arena-custom-event-icon.end {
+  margin-bottom: 15px;
+}
+
+.custom-responsive #wrapper .arena-custom-event-date {
+  display: none;
+}
+
+.custom-responsive #wrapper .arena-custom-event-icon span {
+  display: block;
+  text-align: center;
+  width: 100%;
+}
+
+.custom-responsive #wrapper .arena-custom-event-icon.end {
+  clear: left;
+  top: 5px;
+}
+
+.custom-responsive #wrapper .arena-custom-event-icon .day {
+  font-size: 13px;
+  margin: 0px 0 8px 0;
+  position: relative;
+  z-index: 2;
+  background-color: #777;
+  color: #fff;
+  padding-top: 2px;
+  line-height: 18px;
+}
+
+.custom-responsive #wrapper .arena-custom-event-icon .date {
+  font-size: 25px;
+  line-height: 21px;
+  font-weight: 700;
+}
+
+.custom-responsive #wrapper .arena-custom-event-icon .month {
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.custom-responsive #wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-title,
+.custom-responsive #wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-description,
+.custom-responsive #wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-event-start,
+.custom-responsive #wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-event-end,
+.custom-responsive #wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-content-group,
+.custom-responsive #wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-subject {
+  margin-left: 85px;
+}
+
+.custom-responsive #wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-description,
+.custom-responsive #wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-event-start,
+.custom-responsive #wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-event-end,
+.custom-responsive #wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-content-group,
+.custom-responsive #wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-subject {
+  color: #555;
+}
+
+.custom-responsive #wrapper .arena-custom-event .arena-articledet-subject {
+  margin-bottom: 4px;
+}
+
+.custom-responsive #wrapper .arena-custom-event .arena-articledet-description p, .custom-responsive #wrapper .arena-custom-event div.arena-articledet-title {
+  margin-bottom: 0;
+}
+
+#content-wrapper .portlet-listArticleView .arena-record-container a {
+  white-space: normal;
+}
+
+/* /CALENDAR */
+/* SPOTS */
+.custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container {
+  width: 31.4%;
+  /* 49% */
+  float: left;
+  clear: none;
+  padding: 0;
+  margin-right: 20px;
+  /* 2% */
+  border: 1px solid #eee;
+  box-shadow: 2px 2px 3px -2px #eee;
+  margin-bottom: 5px;
+  max-height: 286px;
+  height: 251px;
+  overflow: hidden;
+  background-color: #fff;
+  border-radius: 3px;
+}
+
+.custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container:hover {
+  box-shadow: 2px 2px 5px #ddd;
+}
+
+.custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container > p {
+  margin: 0 0 -5px 0;
+}
+
+.custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container .arena-record img {
+  display: none;
+}
+
+.custom-responsive #wrapper .portlet-listArticleView.spots .arena-articledet-title {
+  margin-top: 0;
+  margin-bottom: 2px;
+}
+
+.custom-responsive #wrapper .portlet-listArticleView.spots .arena-articledet-title a {
+  color: #333;
+  font-size: 1.05em;
+  font-weight: 700;
+}
+
+.custom-responsive #wrapper .portlet-listArticleView.spots .arena-articledet-description {
+  font-size: 1em;
+  overflow: hidden;
+}
+
+.custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container .arena-record {
+  padding: 10px;
+  max-height: 80px;
+  margin-top: 0px !important;
+  top: 0px !important;
+}
+
+.custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container:nth-of-type(3n+3) {
+  margin-right: 0;
+}
+
+.custom-responsive #wrapper .portlet-listArticleView.spots .arena-addthis-bottom {
+  clear: both;
+}
+
+/* /SPOTS */
+/* FONTS */
+.custom-responsive #wrapper,
+.custom-responsive #content-wrapper input.arena-field,
+.custom-responsive #content-wrapper input[type="text"],
+.custom-responsive #content-wrapper input[type="password"],
+.custom-responsive #content-wrapper input[type="file"],
+.custom-responsive #content-wrapper input[type="submit"],
+.custom-responsive #content-wrapper input[type="button"],
+.custom-responsive #content-wrapper input[type="reset"],
+.custom-responsive #content-wrapper textarea,
+.custom-responsive #content-wrapper .textarea,
+.custom-responsive #content-wrapper input.arena-input-text[type="text"],
+.custom-responsive #content-wrapper input.arena-input-password[type="password"],
+.custom-responsive #content-wrapper .textarea,
+.custom-responsive #content-wrapper .arena-textarea,
+.custom-responsive #content-wrapper input.arena-input-text,
+.custom-responsive #content-wrapper input.arena-input-password,
+.custom-responsive #content-wrapper input.arena-input-text,
+.custom-responsive #content-wrapper input.arena-input-password,
+.custom-responsive #wrapper button,
+.custom-responsive #wrapper .portlet-patronLogin input[type="text"],
+.custom-responsive #wrapper .portlet-simpleSearch .arena-search-text .arena-input-text,
+.custom-responsive #content-wrapper .portlet-articleSingleView .arena-articledet-body h3,
+.custom-responsive #content-wrapper .portlet-listArticleView .arena-articledet-body h3,
+.custom-responsive #content-wrapper .portlet-articleSingleView .arena-articledet-body h4,
+.custom-responsive #content-wrapper .portlet-listArticleView .arena-articledet-body h4,
+.custom-responsive #content-wrapper .portlet-catalogueDetail div.arena-detail-emedia span,
+.custom-responsive #content-wrapper .arena-review-more a,
+.custom-responsive #content-wrapper h1,
+.custom-responsive #content-wrapper h2,
+.custom-responsive #content-wrapper h3,
+.custom-responsive #content-wrapper h4,
+.custom-responsive #content-wrapper .arena-articledet-title,
+.custom-responsive #wrapper .portlet-title-text,
+.custom-responsive #content-wrapper .arena-detail-title,
+.custom-responsive #content-wrapper .arena-record-navigation,
+.custom-responsive #content-wrapper .arena-summaryLoans,
+.custom-responsive #content-wrapper .portlet-catalogueDetail .arena-detail-description span.arena-field,
+.custom-responsive #content-wrapper .portlet-catalogueDetail .arena-holding-link,
+.custom-responsive #wrapper .arena-refresh.arena-input-submit,
+.custom-responsive #wrapper .arena-logout-link.arena-input-submit,
+.custom-responsive #wrapper .arena-refresh.arena-input-submit:active,
+.custom-responsive #wrapper .arena-logout-link.arena-input-submit:active,
+.custom-responsive #wrapper .arena-login-button .arena-input-submit,
+.custom-responsive #wrapper .arena-login-button .arena-input-submit:active,
+.custom-responsive #content-wrapper .arena-record-sort a,
+.custom-responsive #content-wrapper input.arena-input-submit,
+.custom-responsive #content-wrapper .arena-input-submit,
+.custom-responsive #content-wrapper input.arena-input-button,
+.custom-responsive #content-wrapper input.arena-input-reset,
+.custom-responsive #content-wrapper a.arena-link-button,
+.custom-responsive #content-wrapper a.arena-toggle-link,
+.custom-responsive #content-wrapper .arena-record-link a,
+.custom-responsive #content-wrapper .arena-detail-link a,
+.custom-responsive #content-wrapper .arena-header .arena-item-toolbar a,
+.custom-responsive #content-wrapper .portlet-articlesFacets .arena-facet-details li a,
+.custom-responsive #content-wrapper .portlet-articlesFacets .arena-field-link,
+.custom-responsive #content-wrapper .portlet-externalLinks .arena-external-link a,
+.custom-responsive #content-wrapper .portlet-restClient .portlet-content-container a,
+.custom-responsive #content-wrapper .portlet-articleSingleView .portlet-content a,
+.custom-responsive #content-wrapper .portlet-journal-content .journal-content-article a,
+.custom-responsive #content-wrapper .portlet-navigation .portlet-content a,
+.custom-responsive #content-wrapper .portlet-listArticleView .arena-record-container a,
+.custom-responsive #content-wrapper .portlet-articleView .arena-record-container a,
+.custom-responsive #content-wrapper .portlet-articleDetail .arena-record-container a,
+.custom-responsive #content-wrapper .portlet-catalogueDetail .arena-other-records a,
+.custom-responsive #content-wrapper span.arena-notavailable,
+.custom-responsive #content-wrapper span.notAvailable,
+.custom-responsive #content-wrapper span.nonAvailableForLoan,
+.custom-responsive #content-wrapper span.overdueLoan,
+.custom-responsive #content-wrapper span.onLoan,
+.custom-responsive #content-wrapper span.checkedOut,
+.custom-responsive #content-wrapper span.ordered,
+.custom-responsive #content-wrapper span.referenceOnly,
+.custom-responsive #content-wrapper span.arena-available,
+.custom-responsive #content-wrapper span.availableForLoan,
+.custom-responsive #content-wrapper span.returnedToday,
+.custom-responsive #content-wrapper .arena-reservation-button-login,
+.custom-responsive #content-wrapper .arena-review-login-to-review,
+.custom-responsive #content-wrapper .portlet-catalogueDetail.arena-availsummary-reservations,
+.custom-responsive #content-wrapper .portlet-catalogueDetail .arena-availsummary-linktoholdings,
+.custom-responsive #content-wrapper .portlet-catalogueDetail .arena-form-content label,
+.custom-responsive #content-wrapper .portlet-catalogueDetail .arena-summaryLoans,
+.custom-responsive #content-wrapper .portlet-catalogueDetail .arena-detail-emedia,
+.custom-responsive #content-wrapper .portlet-catalogueDetail .arena-detail-other-records-container,
+.custom-responsive #content-wrapper .portlet-myLoans h3.arena-reloanable-header,
+.custom-responsive #content-wrapper .portlet-myLoans h3.arena-notReloanable-header,
+.custom-responsive #wrapper .portlet-patronLogin .arena-inner-content,
+.custom-responsive #wrapper .portlet-patronLogin .arena-logout-link,
+.custom-responsive #content-wrapper .horizontal-list-group .horizontal-list-group-item,
+.custom-responsive #content-wrapper .arena-review .arena-review-buttons .arena-review-edit,
+.custom-responsive #content-wrapper .arena-review .arena-review-buttons .arena-review-abuse,
+.custom-responsive #content-wrapper .arena-form-link a,
+.custom-responsive #content-wrapper div.tab-row ul li,
+.custom-responsive #wrapper .portlet-title-text,
+.custom-responsive #wrapper .portlet-patronLogin span.arena-login-greeting,
+.custom-responsive #wrapper .portlet-patronLogin span.arena-login-label,
+.custom-responsive #content-wrapper div.arena-articledet-title,
+.custom-responsive #navigation ul li a,
+.custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 #row-5 .portlet-body ul li a,
+.custom-responsive #wrapper .portlet-patronLogin .arena-patron-create a,
+.custom-responsive #wrapper .portlet-patronLogin .arena-patron-reset-password a,
+.custom-responsive #wrapper .portlet-patronLogin .arena-login-button input.arena-input-submit,
+.custom-responsive #content-wrapper .portlet-catalogueDetail div.arena-detail-emedia,
+.custom-responsive #banner .site-name {
+  font-family: 'Lato', sans-serif;
+}
+
+.custom-responsive #wrapper .portlet-title-text,
+.custom-responsive #content-wrapper h1,
+.custom-responsive #content-wrapper h2,
+.custom-responsive #content-wrapper h3,
+.custom-responsive #content-wrapper h4,
+.custom-responsive #wrapper .portlet-patronLogin span.arena-login-greeting,
+.custom-responsive #wrapper .portlet-patronLogin span.arena-login-label,
+.custom-responsive #content-wrapper div.arena-articledet-title,
+.custom-responsive #navigation ul li a,
+.custom-responsive #wrapper .portlet-patronLogin .arena-patron-create a,
+.custom-responsive #wrapper .portlet-patronLogin .arena-patron-reset-password a,
+.custom-responsive #wrapper .portlet-patronLogin .arena-login-button input.arena-input-submit,
+.custom-responsive #content-wrapper .portlet-catalogueDetail .arena-holding-link,
+.custom-responsive #content-wrapper span.arena-notavailable,
+.custom-responsive #content-wrapper span.notAvailable,
+.custom-responsive #content-wrapper span.nonAvailableForLoan,
+.custom-responsive #content-wrapper span.overdueLoan,
+.custom-responsive #content-wrapper span.onLoan,
+.custom-responsive #content-wrapper span.checkedOut,
+.custom-responsive #content-wrapper span.ordered,
+.custom-responsive #content-wrapper span.referenceOnly,
+.custom-responsive #content-wrapper span.arena-available,
+.custom-responsive #content-wrapper span.availableForLoan,
+.custom-responsive #content-wrapper span.returnedToday,
+.custom-responsive #content-wrapper .portlet-articlesFacets .arena-field-subtitle,
+.custom-responsive #content-wrapper .portlet-listArticleView .arena-articledet-title,
+.custom-responsive #content-wrapper span.arena-warning,
+.custom-responsive #content-wrapper .portlet-myLoans .arena-missing-record,
+.custom-responsive #content-wrapper .portlet-myLoans .arena-record-renewability .arena-value,
+.custom-responsive #content-wrapper .portlet-myLoans h3.arena-reloanable-header,
+.custom-responsive #content-wrapper .portlet-myLoans h3.arena-notReloanable-header,
+.custom-responsive #content-wrapper .portlet-catalogueDetail .arena-other-records-container,
+.custom-responsive #content-wrapper .portlet-catalogueDetail .arena-other-records-title,
+.custom-responsive #content-wrapper .portlet-catalogueDetail span.arena-availsummary-title,
+.custom-responsive #content-wrapper .portlet-catalogueDetail span.arena-detail-emedia-title,
+.custom-responsive #wrapper .portlet-patronLogin .arena-patron-list li,
+.custom-responsive #content-wrapper .portlet-navigation .list-menu ul > li > a,
+.custom-responsive #content-wrapper .portlet-navigation .list-menu h2,
+.custom-responsive #content-wrapper div.tab-row ul li a,
+.custom-responsive #content-wrapper .portlet-catalogueDetail div.arena-detail-emedia,
+.custom-responsive #content-wrapper .portlet-articlesFacets .arena-field-subtitle {
+  text-transform: none;
+}
+
+.custom-responsive #content-wrapper h1,
+.custom-responsive #content-wrapper h2,
+.custom-responsive #content-wrapper h4,
+.custom-responsive #wrapper .portlet-patronLogin span.arena-login-label,
+.custom-responsive #content-wrapper div.arena-articledet-title span,
+.custom-responsive #content-wrapper .portlet-myDebts .arena-subtitle,
+.custom-responsive #content-wrapper .portlet-articleSingleView .arena-articledet-body h2,
+.custom-responsive #content-wrapper .portlet-listArticleView .arena-articledet-body h2,
+.custom-responsive #content-wrapper .portlet-journal-content h2,
+.custom-responsive #wrapper .portlet-patronLogin input.arena-input-submit,
+.custom-responsive #wrapper .portlet-patronLogin span.arena-login-greeting,
+.custom-responsive #wrapper .portlet-patronLogin span.arena-login-label,
+.custom-responsive #content-wrapper div.arena-articledet-title,
+.custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 #row-5 .portlet-body > ul > li > a,
+.custom-responsive #wrapper .portlet-patronLogin .arena-patron-create a,
+.custom-responsive #wrapper .portlet-patronLogin .arena-patron-reset-password a,
+.custom-responsive #wrapper .portlet-patronLogin .arena-login-button input.arena-input-submit,
+.custom-responsive #content-wrapper span.arena-warning,
+.custom-responsive #content-wrapper .portlet-myLoans .arena-missing-record,
+.custom-responsive #content-wrapper .portlet-myLoans .arena-record-renewability .arena-value,
+.custom-responsive #content-wrapper .portlet-myLoans h3.arena-reloanable-header,
+.custom-responsive #content-wrapper .portlet-myLoans h3.arena-notReloanable-header,
+.custom-responsive #content-wrapper .portlet-queryRecordSearchResult .arena-record,
+.custom-responsive #content-wrapper .arena-record-sort a,
+.custom-responsive #content-wrapper input.arena-input-submit,
+.custom-responsive #content-wrapper .arena-input-submit,
+.custom-responsive #content-wrapper input.arena-input-button,
+.custom-responsive #content-wrapper input.arena-input-reset,
+.custom-responsive #content-wrapper a.arena-link-button,
+.custom-responsive #content-wrapper a.arena-toggle-link,
+.custom-responsive #content-wrapper .arena-header .arena-item-toolbar a,
+.custom-responsive #content-wrapper .portlet-articlesFacets .arena-facet-details li a,
+.custom-responsive #content-wrapper .portlet-articlesFacets .arena-field-link,
+.custom-responsive #content-wrapper .portlet-externalLinks .arena-external-link a,
+.custom-responsive #content-wrapper .portlet-restClient .portlet-content-container a,
+.custom-responsive #content-wrapper .portlet-articleSingleView .portlet-content a,
+.custom-responsive #content-wrapper .portlet-navigation .portlet-content a,
+.custom-responsive #content-wrapper .portlet-listArticleView .arena-record-container a,
+.custom-responsive #content-wrapper .portlet-articleView .arena-record-container a,
+.custom-responsive #content-wrapper .portlet-articleDetail .arena-record-container a,
+.custom-responsive #content-wrapper .portlet-catalogueDetail .arena-other-records a,
+.custom-responsive #content-wrapper .arena-record-navigation .arena-navigation-arrow span.arena-record-first,
+.custom-responsive #content-wrapper .arena-record-navigation .arena-navigation-arrow span.arena-record-left,
+.custom-responsive #content-wrapper .arena-record-navigation .arena-navigation-arrow span.arena-record-right,
+.custom-responsive #content-wrapper .arena-record-navigation .arena-navigation-arrow span.arena-record-last,
+.custom-responsive #content-wrapper span.arena-page-number a span,
+.custom-responsive #content-wrapper span.arena-page-number span,
+.custom-responsive #content-wrapper span.arena-page-number span em span,
+.custom-responsive #content-wrapper span.arena-page-number,
+.custom-responsive #content-wrapper .arena-reservation-button-login,
+.custom-responsive #content-wrapper .arena-review-login-to-review,
+.custom-responsive #content-wrapper div.arena-articledet-title,
+.custom-responsive #content-wrapper .portlet-catalogueDetail .arena-summaryLoans .arena-value,
+.custom-responsive #content-wrapper .portlet-catalogueDetail .arena-summaryLoans .arena-field,
+.custom-responsive #content-wrapper .portlet-catalogueDetail .arena-holding-link,
+.custom-responsive #wrapper .portlet-patronLogin .arena-logout-link,
+.custom-responsive #content-wrapper .arena-review-origin,
+.custom-responsive #content-wrapper .arena-form-link a,
+.custom-responsive #content-wrapper .arena-toggle-header,
+.custom-responsive #content-wrapper div.tab-row ul li,
+.custom-responsive #content-wrapper .portlet-catalogueDetail div.arena-detail-emedia span,
+#content-wrapper .arena-detail-title {
+  font-weight: 700;
+}
+
+.custom-responsive #content-wrapper span.arena-page-number a span,
+.custom-responsive #content-wrapper .portlet-restClient .portlet-content-container a,
+.custom-responsive #content-wrapper .arena-record-sort a,
+.custom-responsive #content-wrapper .portlet-queryRecordSearchResult .arena-record-author .arena-value {
+  font-weight: 400;
+}
+
+.custom-responsive #content-wrapper .horizontal-list .arena-record-title {
+  font-size: 0.9em !important;
+  clear: none;
+}
+
+.custom-responsive #content-wrapper .horizontal-list .arena-record-left {
+  padding-bottom: 2px !important;
+}
+
+.custom-responsive #content-wrapper .portlet-listArticleView.spots .arena-articledet-title {
+  font-size: 0.95em !important;
+  clear: none;
+  font-size: 0.95em !important;
+  clear: none;
+  margin-bottom: 5px !important;
+  margin-top: 5px !important;
+}
+
+.custom-responsive #content-wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-title {
+  clear: none;
+  margin-top: 2px;
+  font-size: 1.045em;
+}
+
+#content-wrapper .portlet-articlesFacets .arena-facets-down {
+  padding-top: 0;
+}
+
+div.arena-facets-down {
+  padding-bottom: 0;
+}
+
+/* FONTS */
+#content-wrapper .portlet-catalogueDetail .arena-holding-child-container .arena-row {
+  border-bottom: 1px solid #ddd;
+  margin-left: 0;
+  padding-bottom: 15px;
+  top: 2px;
+}
+
+/* COLORS */
+.custom-responsive #wrapper #banner {
+  background-color: #BCD0E8 !important;
+  width: 100%;
+}
+
+.custom-responsive #wrapper .arena-columns-1-2-1-2-1 #row-5 {
+  background-color: #eaeaea;
+  border-bottom: 48px solid #76405D;
+  position: absolute;
+  border-top: 1px solid #ccc;
+  margin-top: 80px;
+}
+
+#content-wrapper .portlet-catalogueDetail .arena-availability-right span {
+  color: #c1709d;
+  text-transform: uppercase;
+}
+
+#content-wrapper .portlet-catalogueDetail .arena-availability-right span.availableForLoan {
+  color: #31b712;
+  text-transform: uppercase;
+}
+
+.custom-responsive #wrapper .arena-columns-1-2-1-2-1 #row-5,
+.custom-responsive #wrapper .arena-columns-1-2-1-2-1 #row-5 a,
+.custom-responsive #wrapper .arena-columns-1-2-1-2-1 #row-5 h2,
+.custom-responsive #wrapper .arena-columns-1-2-1-2-1 #row-5 h3,
+.custom-responsive #wrapper .arena-columns-1-2-1-2-1 #row-5 h4,
+.custom-responsive #wrapper .arena-columns-1-2-1-2-1 #row-5 h5 {
+  color: #333;
+}
+
+#content-wrapper span.arena-notavailable,
+#content-wrapper span.notAvailable,
+#content-wrapper span.nonAvailableForLoan, #content-wrapper span.overdueLoan,
+#content-wrapper span.onLoan, #content-wrapper span.checkedOut,
+#content-wrapper span.ordered, #content-wrapper span.referenceOnly,
+#content-wrapper .portlet-catalogueDetail .arena-availability-right span.availableForLoan {
+  background-color: transparent;
+}
+
+.custom-responsive #navigation ul li {
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #592644;
+}
+
+.custom-responsive #navigation ul li a {
+  color: #fff;
+  height: 100%;
+  padding-bottom: 9px;
+  text-transform: none;
+  font-weight: 600;
+  -webkit-transition: background 0.25s ease 0s;
+  transition: background 0.25s ease 0s;
+}
+
+.custom-responsive #navigation > ul > li > a:hover {
+  background-color: #5d2947;
+  text-decoration: underline;
+}
+
+.custom-responsive #navigation > ul > li.active,
+.custom-responsive #navigation > ul > li.selected,
+.custom-responsive #navigation > ul > li:hover,
+.custom-responsive #navigation > ul > li:active,
+.custom-responsive #navigation > ul > li > a:active {
+  background-color: transparent;
+  color: #fff;
+}
+
+.bwd {
+  background-color: transparent;
+}
+
+.custom-responsive #navigation > ul > li > ul > li.selected {
+  border-bottom: 0 solid #3f8ec7;
+  line-height: 100%;
+  padding-top: 0;
+}
+
+.custom-responsive #navigation > ul > li.selected > a {
+  border-bottom: 4px solid #3f8ec7;
+}
+
+.custom-responsive #navigation > ul > li a:hover {
+  color: #ddd;
+  text-decoration: underline !important;
+}
+
+.custom-responsive #navigation > ul > li:hover > .arrow-toggle, .custom-responsive #navigation > ul > li:hover a {
+  color: #fafafa;
+}
+
+.custom-responsive #navigation > ul > li.selected > .arrow-toggle {
+  color: #3F8EC7;
+  text-decoration: none !important;
+}
+
+.custom-responsive #navigation > ul > li.selected > ul li.selected a {
+  border-bottom: none;
+}
+
+.custom-responsive #navigation > ul > li.active > ul.child-menu > li > a:hover,
+.custom-responsive #navigation > ul > li.active > ul.child-menu > li > a:active,
+.custom-responsive #navigation > ul > li.selected > ul li.selected a {
+  background-color: #3f8ec7;
+  color: #fff;
+  line-height: 47px;
+  padding-top: 0;
+  text-decoration: none !important;
+}
+
+.custom-responsive #navigation > ul > li.active > ul.child-menu {
+  background-color: rgba(255, 255, 255, 0.95);
+  color: inherit;
+  line-height: 2;
+}
+
+.ie8 .custom-responsive #navigation > ul > li.active > ul.child-menu, .custom-responsive #wrapper .portlet-simpleSearch .arena-search-container, .custom-responsive #wrapper .portlet-patronLogin input.arena-login-username[type="text"] {
+  background-color: #fff;
+}
+
+.custom-responsive #wrapper #navmenu {
+  border: none;
+}
+
+.custom-responsive #navigation > ul > li.active > ul.child-menu a {
+  background-color: #fff;
+  color: #3f8ec7;
+}
+.custom-responsive #navigation > ul > li.active > ul.child-menu a:hover, .custom-responsive #navigation > ul > li.active > ul.child-menu a:focus {
+  background-color: #3f8ec7;
+}
+
+#wrapper .portlet-simpleSearch .arena-search-button, #wrapper .portlet-simpleSearch .arena-search-button input.arena-input-submit, #wrapper .portlet-simpleSearch .arena-search-button .search-submit-icon {
+  width: 60px;
+}
+
+.custom-responsive #wrapper .portlet-simpleSearch .arena-search-button {
+  background-color: transparent;
+  color: #333;
+}
+
+.custom-responsive #wrapper .portlet-simpleSearch .arena-search-button:hover {
+  background-color: #5D95C7;
+  color: #fff;
+}
+
+.custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-container {
+  background-color: #A7C5E4;
+}
+
+.custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-container:hover,
+.custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-container:active,
+.custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-link:hover,
+.custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-link:active,
+.custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-container:hover .arena-extended-search-link:before,
+.custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-container:active .arena-extended-search-link:before {
+  background-color: #5d95c7;
+  color: #fff;
+}
+
+.custom-responsive #wrapper .portlet-simpleSearch .arena-search-text .arena-input-text,
+.custom-responsive #wrapper .portlet-simpleSearch .arena-search-text input[placeholder],
+.custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-link,
+.custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-link:before,
+.custom-responsive #wrapper .portlet-simpleSearch .search-submit-icon:before {
+  color: #333;
+}
+
+.custom-responsive #wrapper .portlet-simpleSearch .arena-search-text ::-webkit-input-placeholder,
+.custom-responsive #wrapper .portlet-simpleSearch .arena-search-text :-moz-placeholder,
+.custom-responsive #wrapper .portlet-simpleSearch .arena-search-text ::-moz-placeholder,
+.custom-responsive #wrapper .portlet-simpleSearch .arena-search-text :-ms-input-placeholder {
+  color: #888;
+  opacity: 1;
+}
+
+.custom-responsive #wrapper .portlet-patronLogin input,
+.custom-responsive #wrapper .portlet-patronLogin input[type="text"],
+.custom-responsive #wrapper .portlet-patronLogin input[type="password"],
+.custom-responsive #wrapper .portlet-patronLogin input[type="file"],
+.custom-responsive #wrapper .portlet-patronLogin select,
+.custom-responsive #wrapper .portlet-patronLogin textarea,
+.custom-responsive #wrapper .portlet-patronLogin .textarea {
+  background-image: none;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d2e3f1;
+  color: #333;
+}
+
+.custom-responsive #wrapper .portlet-patronLogin input.placeholder,
+.custom-responsive #wrapper .portlet-patronLogin input[placeholder],
+.custom-responsive #wrapper .portlet-patronLogin input[type="text"].placeholder,
+.custom-responsive #wrapper .portlet-patronLogin input[type="password"].placeholder,
+.custom-responsive #wrapper .portlet-patronLogin input[type="file"].placeholder,
+.custom-responsive #wrapper .portlet-patronLogin select.placeholder,
+.custom-responsive #wrapper .portlet-patronLogin textarea.placeholder,
+.custom-responsive #wrapper .portlet-patronLogin .textarea.placeholder {
+  color: #888;
+}
+
+.signed-in.controls-visible .custom-responsive #wrapper .portlet-patronLogin input,
+.signed-in.controls-visible .custom-responsive #wrapper .portlet-patronLogin input[type="text"],
+.signed-in.controls-visible .custom-responsive #wrapper .portlet-patronLogin input[type="password"],
+.signed-in.controls-visible .custom-responsive #wrapper .portlet-patronLogin input[type="file"],
+.signed-in.controls-visible .custom-responsive #wrapper .portlet-patronLogin select,
+.signed-in.controls-visible .custom-responsive #wrapper .portlet-patronLogin textarea,
+.signed-in.controls-visible .custom-responsive #wrapper .portlet-patronLogin .textarea,
+.signed-in.controls-visible .custom-responsive #wrapper .portlet-patronLogin input.placeholder,
+.signed-in.controls-visible .custom-responsive #wrapper .portlet-patronLogin input[placeholder],
+.signed-in.controls-visible .custom-responsive #wrapper .portlet-patronLogin input[type="text"].placeholder,
+.signed-in.controls-visible .custom-responsive #wrapper .portlet-patronLogin input[type="password"].placeholder,
+.signed-in.controls-visible .custom-responsive #wrapper .portlet-patronLogin input[type="file"].placeholder,
+.signed-in.controls-visible .custom-responsive #wrapper .portlet-patronLogin select.placeholder,
+.signed-in.controls-visible .custom-responsive #wrapper .portlet-patronLogin textarea.placeholder,
+.signed-in.controls-visible .custom-responsive #wrapper .portlet-patronLogin .textarea.placeholder {
+  color: inherit;
+  background-image: none;
+  border-color: inherit;
+}
+
+.custom-responsive #wrapper .portlet-patronLogin .arena-patron-create a,
+.custom-responsive #wrapper .portlet-patronLogin .arena-patron-reset-password a {
+  background-image: none;
+  background-color: #aaa;
+  color: #fff;
+}
+
+.custom-responsive #wrapper .portlet-patronLogin .arena-patron-create a:hover,
+.custom-responsive #wrapper .portlet-patronLogin .arena-patron-reset-password a:hover,
+.custom-responsive #wrapper .portlet-patronLogin .arena-patron-create a:active,
+.custom-responsive #wrapper .portlet-patronLogin .arena-patron-reset-password a:active {
+  background-color: #aaa;
+}
+
+.custom-responsive #wrapper .arena-patron-info .arena-patron-list li a {
+  color: #5D95C7;
+}
+
+#content-wrapper div.arena-record-sort a.wicket_orderDown, #content-wrapper div.arena-record-sort a.wicket_orderUp, #content-wrapper div.arena-record-sort a.wicket_orderDown::before, #content-wrapper div.arena-record-sort a.wicket_orderUp::before, #content-wrapper div.arena-record-sort a.wicket_orderDown:hover::before, #content-wrapper div.arena-record-sort a.wicket_orderUp:hover::before, #content-wrapper div.arena-record-sort a.wicket_orderDown:active, #content-wrapper div.arena-record-sort a.wicket_orderUp:active, .custom-responsive #wrapper .portlet-simpleSearch .arena-search-button:hover .search-submit-icon:before {
+  color: #fff;
+}
+
+.custom-responsive #wrapper .portlet-patronLogin .arena-patron-info .arena-patron-list li a:hover,
+.custom-responsive #wrapper .portlet-patronLogin .arena-patron-info .arena-patron-list li a:active,
+.custom-responsive #wrapper .portlet-patronLogin .arena-login-button input.arena-input-submit {
+  background-color: #a7c5e4;
+  box-shadow: none;
+  color: #333;
+}
+
+.custom-responsive #wrapper .portlet-patronLogin .arena-login-button input.arena-input-submit {
+  height: 41px !important;
+}
+
+.custom-responsive #wrapper .portlet-patronLogin .arena-login-button input.arena-input-submit:hover,
+.custom-responsive #wrapper .portlet-patronLogin .arena-patron-info .arena-patron-list li a:active {
+  background-color: #3F8EC7;
+  color: #fff;
+}
+
+#content-wrapper div.arena-record-sort a, #wrapper input.arena-input-submit, #wrapper .arena-input-submit, #wrapper input.arena-input-button, #wrapper input.arena-input-reset, #content-wrapper .portlet-selfRegistration input[type="submit"], #wrapper a.arena-link-button, #content-wrapper a.arena-toggle-link, #content-wrapper .arena-record-link a, #content-wrapper .arena-detail-link a, #content-wrapper .arena-header .arena-item-toolbar a, #content-wrapper .portlet-articlesFacets .arena-field-link, #content-wrapper .arena-review .arena-review-buttons .arena-review-edit a, #content-wrapper .arena-review .arena-review-buttons .arena-review-abuse a, #content-wrapper .arena-form-link a, #content-wrapper .portlet-catalogueDetail .arena-detail-right a.arena-ehub {
+  border-radius: 3px !important;
+}
+
+.custom-responsive #wrapper #mob-nav #mob-login,
+.custom-responsive #wrapper #mob-nav #mob-lang,
+.custom-responsive #wrapper #mob-nav #mob-search,
+.custom-responsive #wrapper #mob-nav #mob-menu {
+  background-color: transparent;
+  color: #fff;
+}
+
+.custom-responsive #wrapper #mob-nav #mob-login:hover,
+.custom-responsive #wrapper #mob-nav .active #mob-login,
+.custom-responsive #wrapper #mob-nav #mob-lang:hover,
+.custom-responsive #wrapper #mob-nav .active #mob-lang,
+.custom-responsive #wrapper #mob-nav #mob-search:hover,
+.custom-responsive #wrapper #mob-nav .active #mob-search,
+.custom-responsive #wrapper #mob-nav #mob-menu:hover,
+.custom-responsive #wrapper #mob-nav .active #mob-menu {
+  background-color: #5D2947;
+  color: #fff;
+}
+
+.custom-responsive #wrapper .arena-reservation-button-login, .custom-responsive #wrapper .arena-review-login-to-review {
+  background-color: #245580;
+  color: #fff;
+  border-radius: 3px;
+  padding: 3px 10px;
+  background-image: -webkit-linear-gradient(top, #337ab7 0px, #265a88 100%);
+  background-image: linear-gradient(to bottom, #337ab7 0px, #265a88 100%);
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.15) inset, 0 1px 1px rgba(0, 0, 0, 0.075);
+  line-height: 29px;
+}
+
+.custom-responsive #wrapper .arena-review-login-to-review:hover {
+  background-color: #e0e0e0 !important;
+  color: #333;
+}
+
+.custom-responsive #wrapper .arena-reservation-button-login:hover {
+  background-color: #e0e0e0 !important;
+  color: #fff;
+}
+
+.custom-responsive #content-wrapper span.arena-page-number a span, .custom-responsive #content-wrapper .portlet-restClient .portlet-content-container a, .custom-responsive #content-wrapper .arena-record-sort a {
+  font-weight: 700;
+}
+
+#content-wrapper div.arena-record-sort a, #content-wrapper .arena-input-submit, #content-wrapper input.arena-input-button, #content-wrapper input.arena-input-reset, #content-wrapper a.arena-link-button, #content-wrapper .arena-record-link a, #content-wrapper .arena-detail-link a, #content-wrapper .arena-review-login-to-review, #content-wrapper .arena-detail-reserve .arena-link-button, #content-wrapper .arena-reservation-buttons .arena-input-submit, #content-wrapper .arena-detail-right .arena-link-button, #wrapper .portlet-patronLogin .arena-logout-link, #wrapper .portlet-patronLogin .arena-login-refresh .arena-form-buttons, #content-wrapper .portlet-articlesFacets .arena-field-link, #content-wrapper .arena-review .arena-review-buttons .arena-review-edit a, #content-wrapper .arena-review .arena-review-buttons .arena-review-abuse a, #content-wrapper .arena-form-link a, #content-wrapper .portlet-catalogueDetail .arena-detail-right a.arena-ehub {
+  background-color: #e0e0e0;
+  background-image: -webkit-linear-gradient(top, #f0f0f0 0px, #e0e0e0 100%);
+  background-image: linear-gradient(to bottom, #f0f0f0 0px, #e0e0e0 100%);
+  border-color: #ccc;
+  color: #333;
+}
+
+.portlet-borderless-bar .portlet-back a, #wrapper .portlet-boundary fieldset input.arena-input-submit {
+  padding: 0 14px !important;
+}
+
+#content-wrapper div.arena-record-sort a.wicket_orderDown, #content-wrapper div.arena-record-sort a.wicket_orderUp, #content-wrapper div.arena-record-sort a:hover, #content-wrapper input.arena-input-submit:hover, #content-wrapper .arena-input-submit:hover, #content-wrapper input.arena-input-button:hover, #content-wrapper input.arena-input-reset:hover, #content-wrapper a.arena-link-button:hover, #content-wrapper .arena-record-link a:hover, #content-wrapper .arena-detail-link a:hover, #content-wrapper .arena-review-login-to-review:hover, #content-wrapper .arena-detail-reserve .arena-link-button:hover, #content-wrapper .arena-reservation-buttons .arena-input-submit:hover, #content-wrapper .arena-detail-right .arena-link-button:hover, #wrapper .portlet-patronLogin .arena-logout-link:hover, #wrapper .portlet-patronLogin .arena-login-refresh .arena-form-buttons:hover, #content-wrapper .portlet-articlesFacets .arena-field-link:hover, #content-wrapper .arena-review .arena-review-buttons .arena-review-edit a:hover, #content-wrapper .arena-review .arena-review-buttons .arena-review-abusea:hover, #content-wrapper .arena-review .arena-review-buttons .arena-review-edit a:hover, #content-wrapper .arena-review .arena-review-buttons .arena-review-abuse a:hover, #content-wrapper .arena-form-link a:hover, #content-wrapper .portlet-catalogueDetail .arena-detail-right a.arena-ehub:hover {
+  background-color: #245580;
+  background-image: -webkit-linear-gradient(top, #337ab7 0px, #265a88 100%);
+  background-image: linear-gradient(to bottom, #337ab7 0px, #265a88 100%);
+  background-repeat: repeat-x;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.15) inset, 0 1px 1px rgba(0, 0, 0, 0.075);
+  color: #fff;
+}
+
+#content-wrapper .portlet-catalogueDetail .arena-availability {
+  border: medium none;
+  margin-top: 30px;
+  padding: 15px 20px;
+  background-color: #fff;
+}
+
+#wrapper .portlet-patronLogin .arena-patron-create a, #wrapper .portlet-patronLogin .arena-patron-reset-password a, #wrapper .portlet-patronLogin .arena-login-button input.arena-input-submit {
+  border-radius: 3px;
+  display: block;
+  height: 32px;
+  padding: 0;
+  width: 100%;
+}
+
+#wrapper .portlet-patronLogin .arena-login-button input.arena-input-submit {
+  line-height: 32px;
+}
+
+#banner .portlet-patronLogin input[type="text"], #banner .portlet-patronLogin input[type="password"] {
+  padding: 8px 0;
+}
+
+/* COLORS */
+/* CHILD-MENU */
+#navigation ul > li > ul.child-menu {
+  border: 0 none;
+  clear: both;
+  display: none;
+  float: none;
+  list-style-type: none;
+  position: absolute;
+  top: 47px;
+}
+
+#content-wrapper span.arena-available, #content-wrapper span.availableForLoan {
+  background-color: #62b964;
+  border-radius: 3px;
+}
+
+#navigation ul > li > ul.child-menu > li:first-child {
+  border-left: none;
+  border-bottom: none;
+}
+
+#navigation ul > li > ul.child-menu > li > a {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  display: block;
+  float: none;
+  line-height: 47px;
+  padding-left: 15px;
+  padding-top: 0;
+  white-space: nowrap;
+  color: #3f8ec7;
+}
+
+/* CHILD-MENU */
+/* FACETS */
+#content-wrapper .portlet-articlesFacets .arena-field-subtitle {
+  background-color: #e0e0e0;
+  border-bottom: none;
+  border-radius: 3px;
+  color: #333;
+  padding: 12px 14px;
+  font-size: 16px;
+  background-image: -webkit-linear-gradient(top, #f0f0f0 0px, #e0e0e0 100%);
+  background-image: linear-gradient(to bottom, #f0f0f0 0px, #e0e0e0 100%);
+  border-color: #ccc;
+}
+
+#content-wrapper .portlet-articlesFacets .arena-field-container.accordion.active .arena-field-subtitle, #content-wrapper .portlet-articlesFacets .arena-field-subtitle:hover {
+  background-color: #245580;
+  background-image: -webkit-linear-gradient(top, #337ab7 0px, #265a88 100%);
+  background-image: linear-gradient(to bottom, #337ab7 0px, #265a88 100%);
+  background-repeat: repeat-x;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.15) inset, 0 1px 1px rgba(0, 0, 0, 0.075);
+  color: #fff;
+}
+
+#content-wrapper .portlet-articlesFacets .arena-facet-details {
+  margin: 5px;
+}
+
+#content-wrapper .portlet-articlesFacets .arena-field-container.accordion.active .arena-field-content {
+  display: block;
+  margin-bottom: 10px;
+  margin-top: -6px;
+  padding: 4px 0 14px 10px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+/* FACETS */
+/* FOOTER */
+.custom-responsive #wrapper .arena-columns-1-2-1-2-1 #row-5 p {
+  border: 0;
+}
+
+#content-wrapper .portlet-journal-content .journal-content-article h3 {
+  margin-top: 0;
+}
+
+.custom-responsive #wrapper .arena-columns-1-2-1-2-1 #row-5 hr {
+  clear: both;
+  border: 0;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px;
+}
+
+.custom-responsive #wrapper .article-col ul {
+  margin: 10px 0;
+  list-style: none;
+}
+
+.custom-responsive #wrapper #row-5 .article-col ul > li {
+  min-height: 25px;
+}
+
+.custom-responsive #wrapper #row-5 .article-col ul > li:before {
+  padding-right: 2px;
+  display: inline-block;
+  content: "\f105";
+  font-family: 'FontAwesome';
+  font-style: normal;
+  font-weight: normal !important;
+}
+
+.custom-responsive #wrapper #row-5 .article-col:nth-of-type(5n+1),
+.custom-responsive #wrapper #row-5 .article-col:last-child,
+.custom-responsive #wrapper .bottom-article-col:nth-of-type(4n+1),
+.custom-responsive #wrapper .bottom-article-col:last-child {
+  margin-right: 0;
+}
+
+.custom-responsive #wrapper #row-5 .article-col:nth-of-type(2n+1),
+.custom-responsive #wrapper #row-5 .article-col:nth-of-type(3n+1) {
+  clear: none;
+}
+
+.custom-responsive #wrapper .article-col {
+    width: 50%;
+    float: left;
+}
+
+.custom-responsive #wrapper .bottom-article-col {
+  margin: 30px 0 30px 0;
+}
+
+.custom-responsive #wrapper #row-5 .article-col {
+  width: 20%;
+  margin-right: 0;
+  float: left;
+}
+
+.custom-responsive #wrapper #row-5 .bottom-article-col {
+  width: 25%;
+  margin-right: 0;
+  float: left;
+  overflow: hidden;
+}
+
+.custom-responsive #content-wrapper #row-5 .portlet-journal-content .bottom-article-col h3 {
+  font-size: 1.05em;
+}
+
+.custom-responsive #wrapper #row-5 .footer-disclaimer {
+    clear: both;
+    position: absolute;
+    bottom: -72px;
+    color: #fff;
+    width: 104%;
+    max-width: 1240px;
+    height: 31px;
+    margin-left: -40px;
+}
+.footer-disclaimer-col-left {
+    float: left;
+    position: relative;
+    clear: none;
+    width: 20%;
+    margin-right: 0;
+    overflow: hidden;
+}
+.footer-disclaimer-col-center {
+    position: relative;
+    clear: none;
+    text-align: center;
+    width: 60%;
+    overflow: hidden;
+    margin-right: 0px;
+    float: left;
+}
+.footer-disclaimer-col-right {
+    float: left;
+    padding-bottom: 0px;
+    width: 20%;
+    margin-right: 0;
+    text-align: right;
+}
+.custom-responsive #wrapper #row-5 .footer-disclaimer a {
+  color: #fff !important;
+}
+
+.footer-disclaimer-col {
+  width: 30%;
+  float: left;
+  margin-left: -5%;
+  margin-bottom: 5px;
+}
+
+.footer-disclaimer-col:last-child {
+  width: 30%;
+  float: right;
+  margin-right: 25px;
+  text-align: right;
+  margin-bottom: 1px;
+}
+
+.custom-responsive #wrapper #row-5 .footer-disclaimer .facebook:before {
+  display: inline-block;
+  content: "\f082";
+  font-family: 'FontAwesome';
+  font-style: normal;
+  font-weight: normal !important;
+  font-size: 1.45em;
+  position: relative;
+  top: 2px;
+  color: #fff;
+}
+
+.custom-responsive #wrapper #row-5 .journal-content-article,
+.custom-responsive #wrapper #row-5 .portlet-journal-content,
+.custom-responsive #wrapper #row-5 .portlet-journal-content .portlet-borderless-container {
+  position: static;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.custom-responsive #wrapper #row-5 {
+  position: relative;
+  margin: 0;
+}
+
+.custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 #row-5 .portlet-column {
+  padding: 50px 20px 20px;
+}
+
+/* /FOOTER */
+/* RESPONSIVE */
+@media only screen and (min-width: 580px) {
+  .custom-responsive #wrapper.scroll #banner .logo {
+    display: none;
+  }
+
+  .custom-responsive #wrapper.scroll #banner {
+    background-image: none;
+  }
+}
+.custom-responsive #mob-lang::before {
+  content: "\f0ac";
+}
+
+@media only screen and (min-width: 900px) {
+  #wrapper #mob-nav .active #mob-menu::before, #wrapper #mob-nav .active #mob-login::before, #wrapper #mob-nav .active #mob-lang::before {
+    top: 2px !important;
+  }
+}
+@media only screen and (min-width: 1025px) {
+  .custom-responsive #wrapper .arena-custom-event .arena-articledet-content-group,
+  .custom-responsive #wrapper .arena-custom-event .arena-articledet-subject {
+    height: 20px;
+  }
+
+  .custom-responsive #banner {
+    height: 128px;
+  }
+
+  #wrapper div#content-wrapper {
+    padding-top: 200px;
+}
+  
+  .custom-responsive .scroll #banner {
+    height: 48px;
+    width: 100%;
+  }
+
+  .custom-responsive #wrapper.scroll #banner, .ie8 .custom-responsive #wrapper.scroll #banner {
+    background-color: #76405D !important;
+    box-shadow: 0 1px #76405D inset, 0 1px #76405D inset, 0 -1px #76405D inset;
+  }
+
+  .custom-responsive .scroll #banner.expanded {
+    height: 48px;
+  }
+  
+  .custom-responsive #navigation .arrow-toggle, .custom-responsive #wrapper.scroll .portlet-simpleSearch, .custom-responsive .scroll #mob-nav .mob-nav-label {
+    display: none;
+  }
+
+  .custom-responsive #navigation .toggle-menu {
+    display: none !important;
+  }
+
+  .custom-responsive #wrapper #mob-nav #mob-login {
+    color: #fff;
+  }
+
+  #mob-nav > li > button {
+    width: 140px;
+    height: 46px;
+    font-size: 26px;
+  }
+
+  .custom-responsive #wrapper.scroll #mob-nav #mob-search {
+    border-left: 1px solid #592644;
+  }
+
+  #banner #mob-nav {
+    position: absolute;
+    top: 125px;
+    z-index: 1;
+  }
+
+  .scroll #mob-nav > li > button {
+    height: 48px;
+    width: 65px;
+  }
+
+  .custom-responsive .scroll #mob-nav #mob-search {
+    display: block;
+  }
+
+  .custom-responsive #wrapper.scroll .portlet-simpleSearch.active {
+    display: block;
+    min-width: 40%;
+    width: 40%;
+    margin-right: -13px;
+    box-shadow: 1px 1px 4px #ccc;
+    top: 65px;
+    left: auto;
+  }
+
+  .custom-responsive .scroll #wrapper #mob-nav #mob-login {
+    width: 60px;
+    height: 48px;
+    border: none;
+  }
+
+  .custom-responsive #banner #mob-nav {
+    right: 115px;
+  }
+
+  .custom-responsive .scroll #banner-wrapper {
+    height: 48px;
+  }
+
+  #mob-login::before {
+    content: "\f023";
+    top: 2px;
+    position: relative;
+    padding-right: 8px;
+  }
+
+  .custom-responsive #wrapper #mob-nav #mob-lang {
+    border-left: 1px solid #592644;
+  }
+
+  .custom-responsive #banner #mob-lang {
+    margin-right: 0;
+  }
+
+  .signed-in.controls-visible #banner #mob-lang {
+    display: none;
+  }
+
+  .custom-responsive #mob-lang::before {
+    content: "\f0ac";
+    top: 2px;
+    position: relative;
+    font-size: 27px;
+    padding-right: 8px;
+  }
+
+  .custom-responsive #wrapper.scroll #mob-lang::before {
+    content: "\f0ac";
+    position: relative;
+    font-size: 29px;
+    padding-right: 0;
+  }
+
+  .custom-responsive #wrapper #mob-nav #mob-login {
+    background-color: transparent;
+    border-right: 1px solid #592644;
+    border-left: 1px solid #592644;
+  }
+
+  .custom-responsive #mob-login::before {
+    font-size: 27px;
+  }
+
+  .scroll #banner #mob-menu {
+    border-right: 1px solid #592644;
+    display: block;
+    height: 48px;
+  }
+
+  .custom-responsive #banner .portlet-language.active {
+    margin-left: -106px;
+    min-height: 0;
+    position: fixed;
+    top: 0;
+    width: 245px;
+    margin-top: 44px;
+  }
+
+  .custom-responsive #wrapper.scroll #banner .portlet-language.active {
+    margin-left: -180px;
+    margin-top: 0;
+  }
+
+  #banner .portlet-patronLogin {
+    margin-left: -226px;
+    min-height: 0;
+    position: fixed;
+    top: 0;
+    width: 365px;
+    margin-top: 44px;
+  }
+
+  .custom-responsive .scroll #mob-login::before {
+    font-size: 30px;
+  }
+
+  .custom-responsive #wrapper.scroll #mob-nav #mob-login::before {
+    padding-right: 0;
+  }
+
+  #mob-nav .mob-nav-label {
+    display: inline;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.5em;
+    text-align: center;
+    line-height: 50px;
+    position: relative;
+    color: #fff;
+  }
+
+  .active #mob-login::before {
+    content: "\f00d";
+    padding-right: 4px;
+  }
+}
+@media only screen and (max-width: 1280px) {
+  .custom-responsive #banner #mob-nav {
+    right: 25px;
+  }
+
+  .custom-responsive #wrapper .portlet-simpleSearch {
+    right: 35px;
+  }
+
+  .scroll #banner #mob-nav {
+    margin-right: 0;
+  }
+
+  .custom-responsive #wrapper.scroll .portlet-simpleSearch {
+    right: 158px;
+  }
+
+  .custom-responsive #navigation {
+    padding-left: 25px;
+  }
+}
+@media only screen and (max-width: 1250px) {
+  .footer-disclaimer-col {
+    width: 30%;
+    float: left;
+    margin-left: -3%;
+    margin-bottom: 2px;
+  }
+}
+@media only screen and (max-width: 1150px) {
+  .btn {
+    padding: 4px 6px;
+  }
+}
+@media only screen and (max-width: 1100px) {
+  .custom-responsive #wrapper .portlet-simpleSearch {
+    max-width: 350px;
+  }
+}
+@media only screen and (max-width: 1050px) {
+  .custom-responsive #navigation > ul > li.active,
+  .custom-responsive #navigation > ul > li.selected,
+  .custom-responsive #navigation > ul > li:hover,
+  .custom-responsive #navigation > ul > li:active,
+  .custom-responsive #navigation > ul > li > a:hover,
+  .custom-responsive #navigation > ul > li > a:active {
+    background-color: transparent;
+  }
+
+  .frontbild {
+    height: 340px;
+  }
+
+  .custom-responsive .scroll #banner #mob-nav {
+    top: 0px;
+  }
+}
+@media only screen and (min-width: 960px) and (max-width: 1050px) {
+  #p_p_id_listArticleView_WAR_arenaportlets_INSTANCE_A5HPAA8udNX6_ div.portlet-boundary.horizontal-list {
+    margin-bottom: -25px !important;
+  }
+}
+@media only screen and (max-width: 1025px) {
+  .custom-responsive #banner {
+    background-image: url("https://bibliotek.vellinge.se/documents/152635/639440/vellinge_cut-mobile.png/7d2dfd7e-7847-42cd-8735-b7d0db4f62ba?t=1418637290257");
+    background-size: 90px 84px;
+  }
+
+  .page-normal #wrapper .portlet-breadcrumb {
+    display: none;
+  }
+
+  .bwd #wrapper #content-wrapper .arena-custom-event.arena-record-container h3 {
+    margin: 0 0 0 85px;
+  }
+
+  #p_p_id_56_INSTANCE_2wzPzTMQuhp2_,
+  #portlet_56_INSTANCE_kbMUk4QWsgfJ {
+    margin-top: 15px !important;
+  }
+
+  #portlet_searchResult_WAR_arenaportlets {
+    margin-top: 10px !important;
+  }
+
+  #portlet_catalogueFacets_WAR_arenaportlets_INSTANCE_Dgk0 {
+    margin-top: 10px;
+  }
+
+  #p_p_id_56_INSTANCE_yEOwksa8WsTe_ .portlet,
+  #p_p_id_56_INSTANCE_yEOwksa8WsTe .portlet,
+  #p_p_id_71_INSTANCE_Kp89_ .portlet,
+  #p_p_id_71_INSTANCE_Kp89 .portlet,
+  #layout-column_column-2 #p_p_id_feedbackWicket_WAR_arenaportlets_,
+  #layout-column_column-2 #p_p_id_feedbackWicket_WAR_arenaportlets,
+  #portlet_selfRegistration_WAR_arenaportlets_INSTANCE_vvnLDrph8yqd,
+  #portlet_selfRegistration_WAR_arenaportlets_INSTANCE_vvnLDrph8yqd_,
+  #p_p_id_articleSingleView_WAR_arenaportlets_INSTANCE_USf6KKtwggvN_,
+  #p_p_id_articleSingleView_WAR_arenaportlets_INSTANCE_USf6KKtwggvN,
+  #portlet_acqSuggestionWicket_WAR_arenaportlets,
+  #p_p_id_acqSuggestionWicket_WAR_arenaportlets_,
+  #p_p_id_loansWicket_WAR_arenaportlets_,
+  #p_p_id_loansWicket_WAR_arenaportlets,
+  #p_p_id_illWicket_WAR_arenaportlets_,
+  #portlet_articleSingleView_WAR_arenaportlets_INSTANCE_xrD75iPTFLEZ,
+  #portlet_articleSingleView_WAR_arenaportlets_INSTANCE_xrD75iPTFLEZ_,
+  #portlet_listArticleView_WAR_arenaportlets_INSTANCE_4zaDa5a6ujSn,
+  #portlet_listArticleView_WAR_arenaportlets_INSTANCE_4zaDa5a6ujSn_,
+  #p_p_id_reservationsWicket_WAR_arenaportlets_,
+  #p_p_id_reservationsWicket_WAR_arenaportlets,
+  #p_p_id_debtsWicket_WAR_arenaportlets_,
+  #p_p_id_debtsWicket_WAR_arenaportlets,
+  #portlet_loanHistoryWicket_WAR_arenaportlets,
+  #portlet_loanHistoryWicket_WAR_arenaportlets_,
+  #portlet_arenaAccount_WAR_arenaportlets,
+  #portlet_arenaAccount_WAR_arenaportlets_,
+  #portlet_articleSingleView_WAR_arenaportlets_INSTANCE_rFdpaJnVlS5c {
+    margin-top: -25px !important;
+  }
+
+  #p_p_id_56_INSTANCE_h2OEeHZjbDeW_ .portlet,
+  #p_p_id_56_INSTANCE_h2OEeHZjbDeW .portlet {
+    margin-top: -45px !important;
+  }
+
+  #p_p_id_articleSingleView_WAR_arenaportlets_INSTANCE_HOiheaQA7bd7_ .portlet {
+    margin-top: -30px !important;
+  }
+
+  #portlet_56_INSTANCE_xq6rJsyEJBCN .journal-content-article {
+    margin-top: -45px;
+  }
+
+  .page-normal #wrapper .portlet-navigation .list-menu h2 a {
+    line-height: 1;
+  }
+
+  .custom-responsive #banner .site-name {
+    font-size: 1.09em;
+    left: 48px;
+  }
+
+  .custom-responsive .scroll #banner .site-name {
+    margin-left: 25px;
+    top: -4px;
+    font-size: 1.1em;
+  }
+
+  .custom-responsive #banner #mob-nav {
+    right: 22px;
+    top: 30px;
+  }
+
+  .custom-responsive .scroll #banner #mob-nav {
+    right: 12px;
+    top: 6px;
+  }
+
+  #banner.expanded {
+    height: 78px !important;
+  }
+
+  #banner {
+    height: 78px !important;
+    box-shadow: 0px 4px 3px -2px #ccc;
+    border: none;
+    margin-bottom: -78px !important;
+  }
+
+  .custom-responsive #wrapper .portlet-simpleSearch .arena-search-text, .custom-responsive #wrapper .portlet-simpleSearch .arena-search-text .arena-input-text {
+    height: 40px;
+  }
+
+  .footer-disclaimer-col {
+    margin-left: 0%;
+  }
+
+  .custom-responsive #navigation > ul > li.active > ul.child-menu > li > a:hover, .custom-responsive #navigation > ul > li.active > ul.child-menu > li > a:active, .custom-responsive #navigation > ul > li.selected > ul li.selected a {
+    line-height: 33px;
+    height: 33px;
+    padding: 0 30px;
+    font-size: 0.7em;
+  }
+
+  .custom-responsive #navigation > ul > li.active > ul.child-menu > li > a:hover {
+    padding: 0 30px;
+    border-bottom-color: #3f8ec7;
+  }
+
+  #content-wrapper .portlet-journal-content .journal-content-article a {
+    color: #333;
+  }
+
+  #content-wrapper .aui-w40 .portlet-title {
+    line-height: 2.8em;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-articledet-title a {
+    font-size: 1.15em;
+  }
+
+  .custom-responsive #navigation {
+    padding-left: 0 !important;
+  }
+
+  #wrapper .rslidesCaption {
+    padding: 8px !important;
+  }
+
+  #wrapper div.portlet-boundary.horizontal-list {
+    padding-bottom: 10px !important;
+  }
+
+  #wrapper .portlet-title-text, #content-wrapper h1 {
+    font-size: 1.3em;
+  }
+
+  #content-wrapper .portlet-listArticleView .arena-articledet-body ul, #content-wrapper .portlet-articleSingleView .arena-articledet-body ul, #content-wrapper .portlet-journal-content .journal-content-article ul {
+    list-style-position: inside;
+    margin: 6px 5px;
+  }
+
+  .custom-responsive #wrapper .portlet-simpleSearch .arena-search-container {
+    border: 0 none;
+    border-radius: 2px;
+    height: 40px;
+  }
+
+  .custom-responsive #wrapper .portlet-simpleSearch {
+    right: 132px;
+  }
+
+  .custom-responsive #wrapper.scroll .portlet-simpleSearch {
+    right: 136px;
+  }
+
+  .scroll div#banner {
+    max-height: 52px !important;
+    min-width: 100% !important;
+  }
+
+  #wrapper .portlet-simpleSearch .arena-search-button, #wrapper .portlet-simpleSearch .arena-search-button input.arena-input-submit, #wrapper .portlet-simpleSearch .arena-search-button .search-submit-icon {
+    width: 50px;
+  }
+
+  #wrapper .portlet-simpleSearch .arena-search-button input.arena-input-submit, #wrapper .portlet-simpleSearch .arena-search-button {
+    height: 40px;
+  }
+
+  .custom-responsive #wrapper .portlet-simpleSearch {
+    max-width: 310px;
+  }
+
+  .custom-responsive #wrapper .portlet-simpleSearch .search-submit-icon:before {
+    top: 4px;
+  }
+
+  #content-wrapper .portlet-selfRegistration .arena-selfreg-input input {
+    padding: 5px;
+  }
+
+  .custom-responsive #banner .logo img {
+    max-height: 36px;
+    max-width: 220px;
+    position: absolute;
+    top: 9px;
+    left: -6px;
+  }
+
+  .custom-responsive #mob-search:before {
+    font-size: 27px;
+    top: -5px;
+  }
+
+  .custom-responsive #navigation li.active:hover,
+  .custom-responsive #navigation > ul > li:active,
+  .custom-responsive #navigation > ul > li:hover {
+    border-bottom: 1px solid #5D95C7;
+  }
+
+  .custom-responsive div#content-wrapper {
+    border-bottom: 0 none;
+    top: 70px;
+    padding-top: 0;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container .arena-record {
+    max-height: 95px;
+    overflow: hidden;
+    padding: 10px 5px 0 10px;
+  }
+
+  .custom-responsive #wrapper #mob-nav #mob-login {
+    margin-right: 4px;
+  }
+
+  .custom-responsive #navigation > ul > li:first-child > a:hover,
+  .custom-responsive #navigation > ul > li > a:active,
+  #navigation li.active > a, #navigation li.active:hover {
+    height: 33px;
+  }
+
+  .custom-responsive #navigation > ul > li:hover > a, .custom-responsive #navigation > ul > li > a:hover, #navigation li.active > a, #navigation li.active:hover {
+    height: 33px;
+    line-height: 33px;
+  }
+
+  #navigation ul > li > ul.child-menu > li > a {
+    padding: 0 30px;
+    font-size: 0.7em;
+  }
+
+  #navigation ul > li > ul.child-menu > li > a:hover {
+    line-height: 33px !important;
+    height: 33px !important;
+  }
+
+  #wrapper #navigation ul li ul.child-menu {
+    top: 33px;
+    border-top: 1px solid #3f8ec7;
+  }
+  .custom-responsive #wrapper .portlet-listArticleView .arena-record-container {
+    padding: 0 10px;
+  }
+  .custom-responsive #navigation ul li a {
+    color: #3F8EC7;
+  }
+
+  .custom-responsive #wrapper .aui-w40 .portlet-listArticleView div.portlet-content {
+    padding-top: 15px;
+  }
+
+  .custom-responsive #navigation > ul > li:first-child {
+    border-left: none;
+  }
+
+  .custom-responsive #content-wrapper .portlet-navigation .list-menu > ul a {
+    font-weight: 400;
+    height: 32px;
+    line-height: 31px;
+    margin-top: 4px;
+  }
+
+  .custom-responsive #content-wrapper .portlet-navigation .list-menu h2 a {
+    height: 33px;
+    box-sizing: border-box;
+    margin-top: 2px;
+    padding: 10px 15px;
+    width: 100%;
+  }
+
+  .custom-responsive #navigation > ul > li.active a:hover {
+    color: #fff;
+  }
+
+  .custom-responsive #navigation > ul > li a:hover {
+    color: #ddd;
+    text-decoration: none !important;
+  }
+
+  #navigation {
+    margin: 78px 0 0;
+    width: 80%;
+  }
+
+  .custom-responsive #wrapper .portlet-simpleSearch {
+    top: 13px;
+    right: 130px;
+  }
+
+  .custom-responsive #navigation ul {
+    border-bottom: 0;
+  }
+
+  .custom-responsive #navigation > ul > li {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #ccc;
+    border-right: 0;
+  }
+
+  .custom-responsive #navigation ul li a {
+    line-height: 33px;
+    height: 33px;
+  }
+
+  .custom-responsive #navigation > ul > li.selected > a,
+  .custom-responsive #navigation > ul > li.selected > ul li.selected a,
+  .custom-responsive #navigation > ul > li.active > a,
+  .custom-responsive #navigation > ul > li:hover > a,
+  .custom-responsive #navigation > ul > li > a:hover,
+  .custom-responsive #navigation > ul > li > a:active,
+  .custom-responsive #navigation > ul > li.active > .child-menu > li a:hover,
+  .custom-responsive #navigation > ul > li.active > .child-menu > li a:active {
+    color: #fff;
+    background-color: #3f8ec7;
+  }
+
+  .custom-responsive #navigation > ul > li.selected > a,
+  .custom-responsive #navigation > ul > li.selected > a:hover {
+    border-bottom: 1px solid #3f8ec7;
+    height: 30px;
+    line-height: 28px !important;
+  }
+
+  .custom-responsive #navigation > ul > li > ul > li.selected {
+    border-bottom: 0 solid #3f8ec7;
+    line-height: 33px !important;
+    height: 33px !important;
+    padding-top: 0;
+  }
+
+  .custom-responsive #navigation > ul > li.active > .arrow-toggle,
+  .custom-responsive #navigation > ul > li:hover > .arrow-toggle,
+  .custom-responsive #navigation > ul > li.selected > .arrow-toggle {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-left: 0;
+  }
+
+  .custom-responsive #navigation > ul > li.active > .child-menu > li {
+    color: inherit;
+  }
+
+  .custom-responsive #navigation ul li {
+    border-right: 0;
+    margin-top: 0;
+  }
+
+  .custom-responsive #navigation > ul > li:last-child {
+    border-bottom: 0;
+  }
+
+  .custom-responsive #navigation li.active > a,
+  .custom-responsive #navigation li.active .arrow-toggle {
+    border-bottom-color: #fff;
+  }
+
+  #navigation ul > li > ul.child-menu {
+    top: 31px;
+    width: 100%;
+  }
+
+  .custom-responsive #wrapper {
+    border-bottom-color: #F8F6F5;
+  }
+
+  .custom-responsive #wrapper #row-5 .footer-disclaimer a,
+  .custom-responsive #wrapper .portlet-listArticleView .arena-record-container .spot-img a {
+    display: inline;
+    padding: 0;
+    margin: 0;
+    background-color: transparent;
+  }
+
+  .custom-responsive #wrapper #row-5 .article-col, .custom-responsive #wrapper #row-5 .bottom-article-col {
+    width: 50%;
+    margin-top: 20px;
+  }
+
+  .custom-responsive #wrapper .portlet-journal-content .journal-content-article .article-col a,
+  .custom-responsive #wrapper .portlet-journal-content .journal-content-article .bottom-article-col a {
+    display: inline-block;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container > p {
+    margin: 0 0 -10px 0;
+  }
+
+  #mob-nav > li > button {
+    border: 0 none;
+    cursor: pointer;
+    display: block;
+    float: right;
+    height: 38px;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+  }
+
+  .custom-responsive #wrapper.scroll .portlet-simpleSearch {
+    margin-right: -16px;
+    top: 6px;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-articledet-title a {
+    font-size: 1em;
+  }
+
+  #content-wrapper .arena-record-title, #content-wrapper .portlet-listArticleView .arena-articledet-title {
+    font-size: 0.94em;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container .arena-record {
+    padding: 20px 5px 0 10px;
+    width: 40%;
+    float: left;
+    clear: none;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container {
+    width: 100%;
+  }
+
+  .custom-responsive #wrapper #mob-nav #mob-login:hover, .custom-responsive #wrapper #mob-nav .active #mob-login, .custom-responsive #wrapper #mob-nav #mob-lang:hover, .custom-responsive #wrapper #mob-nav .active #mob-lang, .custom-responsive #wrapper #mob-nav #mob-search:hover, .custom-responsive #wrapper #mob-nav .active #mob-search, .custom-responsive #wrapper #mob-nav #mob-menu:hover, .custom-responsive #wrapper #mob-nav .active #mob-menu {
+    color: #fff;
+    background-color: #3f8ec7;
+  }
+
+  .custom-responsive #navigation {
+    padding-left: 0px;
+  }
+
+  .custom-responsive #wrapper #mob-nav #mob-login, .custom-responsive #wrapper #mob-nav #mob-lang, .custom-responsive #wrapper #mob-nav #mob-search, .custom-responsive #wrapper #mob-nav #mob-menu {
+    background-color: #a9c2e2;
+    color: #333;
+    border-radius: 3px;
+  }
+
+  .custom-responsive #content-wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-title {
+    clear: none;
+    font-size: 1.02em;
+    margin-top: 2px;
+  }
+
+  .custom-responsive #navigation > ul > li:first-child a {
+    height: 32px !important;
+    line-height: 30px !important;
+  }
+
+  .custom-responsive #banner .site-name {
+    color: #09588A;
+    float: none;
+    font-size: 0.73em;
+    left: 59px;
+    line-height: 30px;
+    padding: 0;
+    position: absolute;
+    text-align: center;
+    top: 10px;
+    width: 205px;
+  }
+
+  #wrapper .portlet-journal-content .journal-content-article .rslides li a {
+    height: auto !important;
+  }
+}
+@media only screen and (min-width: 960px) and (max-width: 1025px) {
+  #p_p_id_71_INSTANCE_G5nN_ .portlet,
+  #p_p_id_71_INSTANCE_G5nN .portlet,
+  #p_p_id_71_INSTANCE_6mbRyqqAFy9h_ .portlet,
+  #p_p_id_71_INSTANCE_6mbRyqqAFy9h .portlet,
+  #p_p_id_71_INSTANCE_wBVpEPOT109G_ .portlet,
+  #p_p_id_71_INSTANCE_wBVpEPOT109G .portlet,
+  #p_p_id_71_INSTANCE_5XE2acN1LMeK_ .portlet,
+  #p_p_id_71_INSTANCE_5XE2acN1LMeK .portlet,
+  #portlet_71_INSTANCE_pvUCjV2LWb2Q_,
+  #portlet_71_INSTANCE_pvUCjV2LWb2Q,
+  #p_p_id_71_INSTANCE_G5nN_,
+  #p_p_id_71_INSTANCE_G5nN,
+  #p_p_id_listArticleView_WAR_arenaportlets_INSTANCE_sR5Y5DdtY5GI_,
+  #p_p_id_listArticleView_WAR_arenaportlets_INSTANCE_sR5Y5DdtY5GI {
+    margin-top: -25px !important;
+  }
+
+  #p_p_id_71_INSTANCE_G5nN_ .portlet,
+  #p_p_id_71_INSTANCE_G5nN .portlet {
+    margin-top: 0 !important;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .custom-responsive div #content-wrapper {
+    margin: 0;
+  }
+
+ .bwd .custom-responsive #banner .site-name {
+    font-size: 0.8em;
+}}
+@media only screen and (max-width: 960px) {
+  .custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 .aui-w40 {
+    width: 100%;
+  }
+
+  .custom-responsive div#content-wrapper {
+    width: 100%;
+    top: 52px;
+  }
+
+  .portlet-myReservations {
+    padding-bottom: 10px !important;
+  }
+
+  .footer-disclaimer-col {
+    margin-left: -3%;
+  }
+
+  #portlet_71_INSTANCE_pvUCjV2LWb2Q_,
+  #portlet_71_INSTANCE_pvUCjV2LWb2Q {
+    margin-top: 8px !important;
+  }
+
+  #p_p_id_71_INSTANCE_Kp89_ .portlet,
+  #p_p_id_71_INSTANCE_Kp89 .portlet {
+    margin-top: 10px !important;
+    padding: 0px 2px 0px 0px;
+  }
+
+  #portlet_restClient_WAR_arenaportlets_INSTANCE_vAMy2x3Ctohe {
+    margin-top: 15px !important;
+  }
+
+  #p_p_id_56_INSTANCE_PiSkCl47pbUq_ .portlet {
+    margin-top: -30px;
+  }
+
+  .custom-responsive #wrapper .arena-columns-1-2-1-2-1 #row-5 {
+    margin-top: 10px;
+  }
+
+  .custom-responsive #navigation {
+    padding-top: 0;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container {
+    width: 32%;
+    margin-right: 1.3%;
+  }
+
+  #content-wrapper .portlet-listRecordSearchResult div.arena-record-details {
+    margin-right: 0px;
+    padding: 5px 0 4px;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container .arena-record {
+    clear: none;
+    float: left;
+    padding: 16px 10px 0 10px;
+    width: auto;
+    height: 90px;
+  }
+
+  .custom-responsive #wrapper.scroll .portlet-simpleSearch {
+    right: 145px;
+  }
+
+  .custom-responsive #wrapper .portlet-simpleSearch {
+    right: 123px;
+  }
+
+  .custom-responsive #content-wrapper .aui-w40 .portlet-column-content,
+  .custom-responsive #content-wrapper .portlet-column-content {
+    margin: 0 10px;
+    padding: 0;
+  }
+
+  .btn {
+    line-height: 30px !important;
+  }
+
+  .custom-responsive #wrapper.scroll #banner {
+    height: 60px;
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 950px) {
+  #banner-wrapper {
+    margin: 0 !important;
+    position: fixed;
+    top: 0;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .custom-responsive #wrapper .portlet-simpleSearch {
+    display: none;
+  }
+
+  .custom-responsive #mob-nav #mob-search {
+    display: block;
+  }
+
+  .custom-responsive .scroll #banner .site-name {
+    margin-left: 0;
+    top: 0;
+  }
+
+  #banner #mob-lang {
+    margin-right: 4px;
+  }
+
+  .arena-signed-in #mob-login:after {
+    content: "";
+    font-size: inherit;
+  }
+
+  .custom-responsive #wrapper .portlet-simpleSearch.active {
+    display: block;
+    min-width: 70%;
+    width: 70%;
+    margin-right: -13px;
+    box-shadow: 1px 1px 4px #ccc;
+    top: 82px;
+    left: auto;
+  }
+
+  .footer-disclaimer-col,
+  .footer-disclaimer-col:last-child {
+    width: 90%;
+    float: none;
+    margin-left: 0px;
+    margin-right: 0;
+    text-align: left;
+  }
+
+  .footer-disclaimer-col:last-child {
+    margin-bottom: 5px;
+  }
+
+  .custom-responsive #wrapper #mob-nav #mob-search {
+    margin-right: 4px;
+  }
+
+  .custom-responsive #mob-menu:before, .custom-responsive #mob-login:before, .custom-responsive #mob-lang:before {
+    top: 0 !important;
+  }
+
+  .custom-responsive #mob-search:before {
+    top: -1px;
+  }
+
+  #mob-nav > li > button {
+    width: 60px;
+  }
+
+  .custom-responsive #wrapper.scroll #banner {
+    height: 60px;
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-container {
+    background-color: #d2e3f1;
+  }
+
+  .custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-container:hover,
+  .custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-container:active {
+    background-color: #5D95C7;
+    color: #fff;
+  }
+.custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 #row-5 .portlet-column {
+    padding: 30px 20px 20px;
+}
+  div.arena-detail-title {
+    font-size: 1.4em;
+  }
+
+  .custom-responsive #wrapper #row-5 .journal-content-article, .custom-responsive #wrapper #row-5 .portlet-journal-content, .custom-responsive #wrapper #row-5 .portlet-journal-content .portlet-borderless-container {
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+
+  .custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-container .arena-extended-search-link:before,
+  .custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-container .arena-extended-search-link:hover:before,
+  .custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-container .arena-extended-search-link:active:before {
+    color: #fff;
+  }
+
+  .custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-container:hover .arena-extended-search-link:before,
+  .custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-container:active .arena-extended-search-link:before {
+    background-color: #5d95c7;
+    color: #fff;
+  }
+
+  .custom-responsive #wrapper .portlet-simpleSearch .arena-extended-search-container .arena-extended-search-link:before {
+    color: #333;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container {
+    clear: none;
+    float: left;
+    margin-right: 25px;
+    margin-bottom: 10px;
+    width: 100%;
+    height: 162px;
+  }
+
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container .arena-record {
+    clear: none;
+    float: left;
+    height: auto;
+    max-width: 43%;
+    padding: 14px 16px 0;
+    width: auto;
+    margin-bottom: 20px;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container .spot-img img {
+    float: left;
+    clear: none;
+  }
+
+  #mob-nav > li > button {
+    width: 47px;
+  }
+
+  .custom-responsive #wrapper #row-5 .article-col, .custom-responsive #wrapper #row-5 .bottom-article-col {
+    width: 100%;
+    margin-top: 20px;
+  }
+}
+@media only screen and (max-width: 700px) {
+  .fronttext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+  }
+
+  #portlet_56_INSTANCE_pEqlcFXq6gZt .article-col, #portlet_56_INSTANCE_d7Gg0Y8nFGzB .article-col, #portlet_56_INSTANCE_7OV808eRfij2 .article-col, #portlet_56_INSTANCE_98wgz2uROi1A .article-col {
+    width: 100%;
+  }
+
+  #portlet_56_INSTANCE_mDOcE6esimBC .portlet-body {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #e9e9e9;
+    border-radius: 3px;
+    max-width: 480px;
+    width: 100%;
+  }
+
+  #portlet_56_INSTANCE_xq6rJsyEJBCN .journal-content-article .article-col, .custom-responsive #wrapper .article-col {
+    float: left;
+    width: 100%;
+  }
+  .frontsektion {
+    margin-left: 1%;
+    margin-right: auto;
+    width: 96%;
+    float: left;
+  }
+
+  .frontbild {
+    width: 100% !important;
+  }
+}
+@media only screen and (max-width: 640px) {
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container {
+    clear: none;
+    float: left;
+    margin-bottom: 20px;
+    margin-right: 25px;
+    width: 300px;
+    max-width: 300px;
+    height: 270px;
+  }
+  #portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Rc54e07f7Y9v, #portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Rc54e07f7Y9v_, #portlet_listResult_WAR_arenaportlet_INSTANCE_JXVAFuqR8UMy, #p_p_id_listResult_WAR_arenaportlet_INSTANCE_JXVAFuqR8UMy_ {
+    display: none;
+}
+  #portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_kbMUk4QWsgfJ, #portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_kbMUk4QWsgfJ_ {
+    margin-top: -20px;
+}
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container .arena-record {
+    clear: none;
+    float: left;
+    height: auto;
+    max-width: 100%;
+    padding: 10px 11px 0;
+    width: auto;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container {
+    width: 100%;
+    float: none;
+    clear: both;
+    margin-right: 0;
+  }
+
+  .custom-responsive #banner .site-name {
+    font-size: 1em;
+  }
+}
+@media only screen and (max-width: 580px) {
+  .bwd .custom-responsive #banner .site-name {
+    color: #09588A;
+    float: none;
+    font-size: 0.53em;
+    left: 6px;
+    line-height: 20px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    text-align: center;
+    top: 6px;
+    width: 140px;
+  }
+
+  .custom-responsive .scroll #banner #mob-nav {
+    top: 6px;
+    right: 12px;
+  }
+
+  .boxbild {
+    padding: 0;
+    width: 100%;
+  }
+
+  .custom-responsive .scroll #banner {
+    margin-top: 0;
+  }
+
+  .custom-responsive .scroll #banner .site-name, .custom-responsive #banner .logo img {
+    display: none;
+  }
+
+  .custom-responsive #banner {
+    background-image: none;
+  }
+
+  .custom-responsive #banner #mob-nav {
+    top: 7px;
+    right: 6px;
+  }
+
+  #banner-wrapper {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+
+  #banner {
+    height: 51px !important;
+  }
+
+  .custom-responsive #banner {
+    height: 95px;
+    margin: 0;
+  }
+
+  .custom-responsive #mob-nav {
+    top: 15px;
+  }
+
+  .custom-responsive div#content-wrapper,
+  .custom-responsive .scroll div#content-wrapper {
+    top: 40px;
+  }
+
+  #banner.expanded {
+    height: 52px !important;
+  }
+
+  div#content-wrapper, .scroll div#content-wrapper {
+    padding-top: 60px !important;
+  }
+
+  .custom-responsive #navigation {
+    margin: 52px 0 0;
+  }
+}
+@media only screen and (max-width: 480px) {
+  #p_p_id_56_INSTANCE_2wzPzTMQuhp2_ {
+    display: none;
+  }
+.custom-responsive #wrapper #row-5 .footer-disclaimer {
+    bottom: -78px;
+    width: 104%;
+    height: 31px;
+    margin-left: -40px;
+}
+.footer-disclaimer-col-left {
+    width: 24%;
+}
+.footer-disclaimer-col-center {
+    width: 52%;
+}
+.footer-disclaimer-col-right {
+    width: 24%;
+}
+.custom-responsive #wrapper .arena-columns-1-2-1-2-1 #row-5 {
+    border-bottom: 70px solid #76405D;
+ } 
+  
+  #portlet_listArticleView_WAR_arenaportlets_INSTANCE_Kcf6SfbOHlT3,
+  #portlet_listResult_WAR_arenaportlets_INSTANCE_JXVAFuqR8UMy,
+  #p_p_id_listResult_WAR_arenaportlets_INSTANCE_JXVAFuqR8UMy_,
+  #portlet_listArticleView_WAR_arenaportlets_INSTANCE_67kctc2JkUkn,
+  #portlet_listResult_WAR_arenaportlets_INSTANCE_pqUNR6N9lyU8,
+  #p_p_id_listResult_WAR_arenaportlets_INSTANCE_pqUNR6N9lyU8_,
+  #p_p_id_listArticleView_WAR_arenaportlets_INSTANCE_A5HPAA8udNX6_,
+  #p_p_id_listArticleView_WAR_arenaportlets_INSTANCE_A5HPAA8udNX6 {
+    display: none;
+  }
+
+  #p_p_id_56_INSTANCE_kbMUk4QWsgfJ_,
+  #p_p_id_56_INSTANCE_kbMUk4QWsgfJ {
+    top: -30px;
+  }
+
+  #portlet_listArticleView_WAR_arenaportlets_INSTANCE_f4R2bebGPbbg,
+  #portlet_listArticleView_WAR_arenaportlets_INSTANCE_f4R2bebGPbbg_ {
+    margin-top: -34px;
+  }
+
+  .custom-responsive #wrapper .portlet-simpleSearch.active {
+    right: 0;
+    box-shadow: 1px 1px 4px #ccc;
+    display: block;
+    left: auto;
+    min-width: 95.5%;
+    margin-right: 11px;
+    top: 60px;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container .spot-img img {
+    clear: none;
+    float: left;
+    width: 100%;
+  }
+
+  #content-wrapper .portlet-catalogueDetail .arena-availability {
+    padding: 15px 10px;
+  }
+}
+@media only screen and (max-width: 380px) {
+  .custom-responsive #content-wrapper .horizontal-list .arena-record-details {
+    margin-left: -4px;
+  }
+}
+@media only screen and (max-width: 330px) {
+  .custom-responsive #banner .site-name {
+    left: 5px;
+  }
+
+  .custom-responsive #banner #mob-nav {
+    right: 5px;
+  }
+}
+/* /RESPONSIVE */
+/* NEW RESPONSIVE */
+@media only screen and (min-width: 1300px) and (max-width: 1900px) {
+  .custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 .aui-w60 {
+    width: 830px;
+  }
+
+  .custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 .aui-w40 {
+    width: 410px;
+  }
+
+  .custom-responsive div#content-wrapper {
+    width: 1240px;
+  }
+}
+@media only screen and (min-width: 1250px) and (max-width: 1299px) {
+  .custom-responsive div#content-wrapper {
+    width: 1190px;
+  }
+
+  .custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 .aui-w60 {
+    width: 797px;
+  }
+
+  .custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 .aui-w40 {
+    width: 393px;
+  }
+
+  .custom-responsive #content-wrapper .aui-w40 .portlet-column-content {
+    margin-left: 20px;
+  }
+
+  #wrapper .portlet-title-text, #content-wrapper h1 {
+    font-size: 1.4em;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container {
+    margin-right: 12px;
+    width: 254px;
+    height: 241px;
+  }
+}
+@media only screen and (min-width: 1150px) and (max-width: 1249px) {
+  .custom-responsive div#content-wrapper {
+    width: 1090px;
+  }
+
+  .custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 .aui-w60 {
+    width: 730px;
+  }
+
+  .custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 .aui-w40 {
+    width: 360px;
+  }
+
+  .custom-responsive #content-wrapper .aui-w40 .portlet-column-content {
+    margin-left: 18px;
+  }
+
+  .custom-responsive #content-wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-title {
+    font-size: 1em;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container {
+    margin-right: 12px;
+    height: 250px;
+    width: 233px;
+  }
+
+  .custom-responsive #wrapper #row-5 .journal-content-article, .custom-responsive #wrapper #row-5 .portlet-journal-content, .custom-responsive #wrapper #row-5 .portlet-journal-content .portlet-borderless-container {
+    margin-left: 30px;
+    margin-right: 30px;
+    position: static;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container .arena-record {
+    max-height: 95px;
+  }
+}
+@media only screen and (min-width: 1050px) and (max-width: 1149px) {
+  .custom-responsive div#content-wrapper {
+    width: 1020px;
+  }
+
+  .custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 .aui-w60 {
+    width: 683px;
+  }
+
+  .custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 .aui-w40 {
+    width: 337px;
+  }
+
+  .custom-responsive #content-wrapper .aui-w40 .portlet-column-content {
+    margin-left: 15px;
+  }
+
+  .custom-responsive #content-wrapper .horizontal-list .arena-record-details {
+    margin-left: -1px;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container .arena-record {
+    max-height: 95px;
+  }
+
+  .custom-responsive #wrapper #row-5 .journal-content-article, .custom-responsive #wrapper #row-5 .portlet-journal-content, .custom-responsive #wrapper #row-5 .portlet-journal-content .portlet-borderless-container {
+    margin-left: 20px;
+    margin-right: 20px;
+    position: static;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container {
+    width: 218px;
+    margin-right: 10px;
+    height: 236px;
+  }
+}
+@media only screen and (min-width: 960px) and (max-width: 1049px) {
+  .custom-responsive div#content-wrapper {
+    width: 965px;
+  }
+
+  .custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 .aui-w60 {
+    width: 647px;
+  }
+
+  .custom-responsive #content-wrapper .arena-columns-1-2-1-2-1 .aui-w40 {
+    width: 318px;
+  }
+
+  .custom-responsive #content-wrapper .aui-w40 .portlet-column-content {
+    margin-left: 18px;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container {
+    margin-right: 10px;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container {
+    width: 207px;
+  }
+
+  .custom-responsive #wrapper #row-5 .journal-content-article, .custom-responsive #wrapper #row-5 .portlet-journal-content, .custom-responsive #wrapper #row-5 .portlet-journal-content .portlet-borderless-container {
+    margin-left: 18px;
+    margin-right: 14px;
+    position: static;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView .arena-record-container {
+    padding: 0 12px;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-title, .custom-responsive #wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-description, .custom-responsive #wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-event-start, .custom-responsive #wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-event-end, .custom-responsive #wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-content-group, .custom-responsive #wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-subject {
+    margin-left: 80px;
+  }
+
+  #content-wrapper .arena-record-title, #content-wrapper .portlet-listArticleView .arena-articledet-title {
+    font-size: 1.02em;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container {
+    height: 186px !important;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-articledet-description {
+    font-size: 1em;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container .spot-img img {
+    width: 54%;
+    float: left;
+    clear: none;
+  }
+
+  .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container .arena-record {
+    clear: none;
+    float: left;
+    padding: 16px 5px 0 15px;
+    width: 40%;
+    max-height: 115px;
+  }
+}
+@media only screen and (min-width: 900px) and (max-width: 1025px) {
+  #mob-nav .mob-nav-label {
+    display: inline;
+    font-size: 20px;
+  }
+
+  .custom-responsive #mob-login::before {
+    font-size: 22px;
+  }
+
+  .arena-signed-in #mob-login::before {
+    left: 2px;
+  }
+
+  .arena-signed-in #mob-login::after {
+    margin-right: 4px;
+  }
+
+  .custom-responsive #banner #mob-nav {
+    top: 30px;
+  }
+
+  #mob-nav > li > button {
+    width: 110px;
+    font-size: 22px;
+  }
+
+  #banner #mob-lang {
+    margin-right: 6px;
+  }
+
+  #banner .portlet-patronLogin .portlet-title {
+    display: none;
+  }
+
+  .custom-responsive #mob-search::before {
+    font-size: 18px;
+    top: 0;
+  }
+
+  .custom-responsive #wrapper #mob-nav #mob-login, .custom-responsive #wrapper #mob-nav #mob-search {
+    margin-right: 6px;
+  }
+
+  #mob-nav .mob-nav-label {
+    display: inline;
+    font-size: 14px;
+    padding: 4px;
+    position: relative;
+    top: 0;
+  }
+  .custom-responsive #wrapper .portlet-simpleSearch, #mob-list-menu .mob-nav-label {
+    display: none;
+  }
+
+  #mob-nav #mob-search, #mob-nav #mob-menu {
+    display: inline;
+  }
+
+  .custom-responsive #wrapper .portlet-simpleSearch {
+    top: 90px;
+  }
+
+  .custom-responsive #wrapper .portlet-simpleSearch.active {
+    box-shadow: 1px 1px 4px #ccc;
+    display: block;
+    left: auto;
+    margin-right: -13px;
+    min-width: 70%;
+    width: 70%;
+  }
+}
+/* /NEW RESPONSIVE */
+/* TOUCH HIGH RES */
+@media only screen and (min-width: 320px) {
+  .touch .custom-responsive #banner {
+    background-size: 78px;
+  }
+
+  .touch .custom-responsive #wrapper.scroll #banner .logo img,
+  .touch .custom-responsive #banner .logo img {
+    max-height: 36px;
+    max-width: 220px;
+    position: absolute;
+    top: 9px;
+    left: -8px;
+  }
+
+  .touch .custom-responsive #wrapper .journal-content-article a.rslides_nav.next,
+  .touch .custom-responsive #wrapper .journal-content-article a.rslides_nav.prev {
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    padding: 0;
+    line-height: 50px;
+  }
+
+  .touch .custom-responsive #wrapper .journal-content-article .opening-hours-bottom-link a {
+    margin-right: 0;
+  }
+
+  .touch .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container .arena-record {
+    height: auto;
+  }
+
+  .touch .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container, .touch .custom-responsive #wrapper .portlet-listArticleView.spots .arena-record-container .arena-record {
+    height: 250px;
+    max-height: 250px;
+  }
+}
+@media only screen and (min-width: 1025px) {
+  .touch .custom-responsive #wrapper .portlet-simpleSearch {
+    right: 158px !important;
+    top: 7px;
+  }
+
+  .touch .custom-responsive #banner .site-name {
+    left: 48px;
+    top: -9px;
+  }
+
+  .touch .custom-responsive .scroll #banner {
+    height: 78px !important;
+  }
+
+  .touch .scroll div#banner {
+    max-height: 78px !important;
+  }
+
+  .touch .custom-responsive #wrapper.scroll #banner, .touch .ie8 .custom-responsive #wrapper.scroll #banner {
+    background-color: #BCD0E8;
+    box-shadow: none;
+  }
+
+  .touch .custom-responsive #banner #mob-nav {
+    top: 9px !important;
+    right: 20px;
+  }
+
+  .touch .custom-responsive .scroll #banner #mob-nav {
+    top: 9px !important;
+    right: 22px;
+  }
+
+  .touch #wrapper .rslides li {
+    height: 309px;
+  }
+
+  .touch .custom-responsive #navigation > ul > li.selected > a, .touch .custom-responsive #navigation > ul > li.selected > ul li.selected a, .touch .custom-responsive #navigation > ul > li.active > a, .touch .custom-responsive #navigation > ul > li:hover > a, .touch .custom-responsive #navigation > ul > li > a:hover, .touch .custom-responsive #navigation > ul > li > a:active, .touch .custom-responsive #navigation > ul > li.active > .child-menu > li a:hover, .touch .custom-responsive #navigation > ul > li.active > .child-menu > li a:active {
+    background-color: #3f8ec7;
+    color: #fff;
+  }
+
+  .touch #mob-nav-lang {
+    margin-right: 5px;
+  }
+
+  .touch .arena-signed-in #mob-login::after {
+    content: "";
+  }
+
+  .touch #content-wrapper .arena-media-class-icon-container a, .touch #content-wrapper .portlet-articlesFacets .arena-facet-details li a, .touch #content-wrapper .portlet-articleSingleView .portlet-content a, .touch #content-wrapper .portlet-journal-content .journal-content-article a, .touch #content-wrapper .portlet-navigation .portlet-content a, .touch #content-wrapper .portlet-listArticleView .arena-record-container a, .touch #content-wrapper .portlet-articleView .arena-record-container a, .touch #content-wrapper .portlet-articleDetail .arena-record-container a, .touch #content-wrapper .arena-other-records a, .touch #content-wrapper .portlet-articlesFacets div.arena-active-facet-details a, .touch #content-wrapper .arena-tag a, .touch #content-wrapper .portlet-externalLinks .arena-external-link a, .touch #content-wrapper .portlet-restClient .portlet-content-container a, .touch #content-wrapper .portlet-recordTagCloud .portlet-content-container a {
+    background-color: transparent !important;
+    box-shadow: none;
+    color: #333 !important;
+  }
+
+  .touch .custom-responsive #content-wrapper .portlet-listArticleView.spots .arena-articledet-title a, .touch .custom-responsive #wrapper .portlet-journal-content.hours .journal-content-article .opening-hours-bottom-link a {
+    color: #333;
+  }
+
+  .touch #content-wrapper .portlet-articleSingleView .arena-article a, .touch #content-wrapper .portlet-journal-content .portlet-content a, .touch #content-wrapper .portlet-listArticleView .arena-record-container a, .touch #content-wrapper .portlet-articleView .arena-record-container a, .touch #content-wrapper .portlet-articleDetail .arena-record-container a, .touch #content-wrapper .portlet-navigation .portlet-content a, .touch #content-wrapper .portlet-articlesFacets .arena-field-link, .touch #content-wrapper .arena-other-records a, .touch #content-wrapper .portlet-articlesFacets div.arena-active-facet-details a, .touch #content-wrapper .arena-tag a {
+    display: initial;
+  }
+
+  .touch #content-wrapper .arena-record-sort a, .touch #content-wrapper input.arena-input-submit, .touch #content-wrapper .arena-input-submit, .touch #content-wrapper input.arena-input-button, .touch #content-wrapper input.arena-input-reset, .touch #content-wrapper a.arena-link-button, .touch #content-wrapper a.arena-toggle-link, .touch #content-wrapper .arena-record-link a, .touch #content-wrapper .arena-detail-link a, .touch #content-wrapper .arena-header .arena-item-toolbar a, .touch #content-wrapper .portlet-articlesFacets .arena-facet-details li a, .touch #content-wrapper .portlet-articlesFacets .arena-field-link, .touch #content-wrapper .portlet-externalLinks .arena-external-link a, .touch #content-wrapper .portlet-restClient .portlet-content-container a, .touch #content-wrapper .portlet-articleSingleView .portlet-content a, .touch #content-wrapper .portlet-journal-content .journal-content-article a, .touch #content-wrapper .portlet-navigation .portlet-content a, .touch #content-wrapper .portlet-listArticleView .arena-record-container a, .touch #content-wrapper .portlet-articleView .arena-record-container a, .touch #content-wrapper .portlet-articleDetail .arena-record-container a, .touch #content-wrapper .portlet-catalogueDetail .arena-other-records a, .touch #content-wrapper .arena-form-link a {
+    white-space: normal;
+  }
+
+  .touch #content-wrapper .portlet-listArticleView .arena-record-container a, .touch #content-wrapper .portlet-articleView .arena-record-container a, .touch #content-wrapper .portlet-articleDetail .arena-record-container a, .touch #content-wrapper .portlet-navigation .portlet-content li {
+    margin: 0px;
+  }
+
+  .touch #content-wrapper .portlet-articleSingleView .portlet-content a, .touch #content-wrapper .portlet-journal-content .journal-content-article a, .touch #content-wrapper .portlet-listArticleView .arena-record-container a, .touch #content-wrapper .portlet-articleView .arena-record-container a, .touch #content-wrapper .portlet-articleDetail .arena-record-container a, .touch #navigation > ul > li > ul > li > a {
+    line-height: 20px !important;
+  }
+
+  .touch #content-wrapper .arena-media-class-icon-container a, .touch #content-wrapper .portlet-articlesFacets .arena-facet-details li a, .touch #content-wrapper .portlet-articleSingleView .arena-article a, .touch #content-wrapper .portlet-journal-content .journal-content-article a, .touch #content-wrapper .portlet-navigation .portlet-content a, .touch #content-wrapper .portlet-listArticleView .arena-record-container a, .touch #content-wrapper .portlet-articleView .arena-record-container a, .touch #content-wrapper .portlet-articleDetail .arena-record-container a, .touch #content-wrapper .arena-other-records a, .touch #content-wrapper .portlet-articlesFacets div.arena-active-facet-details a, .touch #content-wrapper .arena-tag a, .touch #content-wrapper .portlet-externalLinks .arena-external-link a, .touch #content-wrapper .portlet-restClient .portlet-content-container a {
+    height: 20px !important;
+    padding-left: 0 !important;
+    padding: 0px !important;
+  }
+
+  .touch .custom-responsive #wrapper .portlet-simpleSearch {
+    right: 142px;
+  }
+
+  .touch .custom-responsive #navigation > ul > li.active > .arrow-toggle, .touch .custom-responsive #navigation > ul > li:hover > .arrow-toggle, .touch .custom-responsive #navigation > ul > li.selected > .arrow-toggle {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-left: 0 none;
+  }
+
+  .touch .custom-responsive #navigation > ul > li:first-child {
+    border-left: medium none;
+  }
+
+  .touch .custom-responsive #navigation > ul > li.active > ul.child-menu > li > a:hover, .touch .custom-responsive #navigation > ul > li.active > ul.child-menu > li > a:active, .touch .custom-responsive #navigation > ul > li.selected > ul li.selected a {
+    line-height: 33px;
+    height: 33px;
+    padding: 8px 13px;
+    font-size: 0.7em;
+  }
+
+  .touch #content-wrapper .portlet-articleSingleView .portlet-content a, .touch #content-wrapper .portlet-journal-content .journal-content-article a, .touch #content-wrapper .portlet-listArticleView .arena-record-container a, .touch #content-wrapper .portlet-articleView .arena-record-container a, .touch #content-wrapper .portlet-articleDetail .arena-record-container a, .touch #navigation > ul > li > ul > li > a {
+    line-height: 20px !important;
+  }
+
+  .touch #content-wrapper .portlet-listArticleView .arena-record-container a, .touch #content-wrapper .portlet-articleView .arena-record-container a, .touch #content-wrapper .portlet-articleDetail .arena-record-container a, .touch #content-wrapper .portlet-navigation .portlet-content li {
+    margin: 0 !important;
+  }
+
+  .touch .custom-responsive #wrapper #mob-nav #mob-login, .touch .custom-responsive #wrapper #mob-nav #mob-lang, .touch .custom-responsive #wrapper #mob-nav #mob-search, .touch .custom-responsive #wrapper #mob-nav #mob-menu {
+    background-color: #96b5db;
+    color: #333;
+    border-radius: 3px;
+    border-left: none;
+  }
+
+  .touch .custom-responsive #content-wrapper .portlet-navigation .list-menu .layouts.level-1 li a {
+    background-color: transparent;
+    border: medium none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 8px 25px !important;
+    width: 100%;
+  }
+
+  .touch #content-wrapper .arena-media-class-icon-container a, .touch #content-wrapper .portlet-articlesFacets .arena-facet-details li a, .touch #content-wrapper .portlet-articleSingleView .portlet-content a, .touch #content-wrapper .portlet-journal-content .journal-content-article a, .touch #content-wrapper .portlet-navigation .portlet-content a, .touch #content-wrapper .portlet-listArticleView .arena-record-container a, .touch #content-wrapper .portlet-articleView .arena-record-container a, .touch #content-wrapper .portlet-articleDetail .arena-record-container a, .touch #content-wrapper .arena-other-records a, .touch #content-wrapper .portlet-articlesFacets div.arena-active-facet-details a, .touch #content-wrapper .arena-tag a, .touch #content-wrapper .portlet-externalLinks .arena-external-link a, .touch #content-wrapper .portlet-restClient .portlet-content-container a, .touch #content-wrapper .portlet-recordTagCloud .portlet-content-container a {
+    background-color: transparent !important;
+    box-shadow: none;
+    color: #333 !important;
+  }
+
+  .touch #content-wrapper .portlet-navigation .portlet-content a {
+    display: inline-block;
+  }
+
+  .touch .custom-responsive #mob-nav .mob-nav-label {
+    display: none;
+  }
+
+  .touch #banner .portlet-patronLogin {
+    margin-top: 0;
+  }
+
+  .touch #mob-nav > li > button {
+    width: 60px;
+  }
+
+  .touch #navigation {
+    margin-top: 0px !important;
+    top: 0;
+  }
+
+  .touch .custom-responsive #wrapper.scroll #mob-nav #mob-search,
+  .touch .custom-responsive #wrapper.scroll #mob-nav #mob-login,
+  .touch .custom-responsive #wrapper #mob-nav #mob-login {
+    border: none;
+  }
+
+  .touch .custom-responsive #wrapper #mob-nav #mob-login {
+    margin-right: 4px;
+  }
+
+  .touch #mob-login::before {
+    padding-right: 0px;
+  }
+
+  .touch #banner .portlet-patronLogin {
+    margin-left: -296px;
+  }
+
+  .touch .custom-responsive #wrapper.scroll #banner .logo {
+    display: inline;
+  }
+
+  .touch .custom-responsive #wrapper.scroll #banner {
+    background-image: url("https://bibliotek.vellinge.se/documents/152635/639440/vellinge_cut-mobile.png/7d2dfd7e-7847-42cd-8735-b7d0db4f62ba?t=1418637290257");
+    background-size: 90px 84px;
+  }
+
+  .touch .custom-responsive .scroll #banner .site-name {
+    font-size: 1.15em;
+    position: relative;
+    top: -2px;
+    color: #09588a;
+    font-family: "Lato",sans-serif;
+    font-weight: 700;
+  }
+
+  .touch .custom-responsive #wrapper.scroll #mob-nav #mob-search {
+    margin-right: 4px;
+  }
+
+  .touch .custom-responsive #mob-login::before {
+    font-size: 30px;
+  }
+}
+/* /TOUCH HIGH RES */
+#content-wrapper .portlet-listArticleView .arena-record-container .arena-custom-event a {
+  white-space: normal;
+}
+
+#google-cal-dynamic-opening-hours .google-cal-header {
+  display: none;
+}
+
+.custom-responsive #content-wrapper .portlet-journal-content .journal-content-article #google-cal-dynamic-opening-hours {
+  padding: 5px 15px;
+}
+
+.custom-responsive #content-wrapper .portlet-journal-content #google-cal-toolbar {
+  margin: 15px;
+}
+
+.custom-responsive #navmenu {
+  height: 47px;
+}
+
+@media only screen and (max-width: 1024px) {
+  .custom-responsive #navmenu {
+    height: 0;
+  }
+}
+#navigation > ul {
+  margin: 0 20px;
+}
+.bwd #wrapper .portlet-title-text {
+  font-weight: normal;
+}
+
+.custom-responsive #content-wrapper .portlet-listArticleView .arena-custom-event .arena-articledet-title {
+  margin: 0 0 0 85px;
+  padding: 0;
+}
+
+.custom-responsive .scroll #banner .site-name {
+  font-size: .7em;
+}
+
+.bwd .custom-responsive #navigation {
+  height: 100%;
+  padding-left: 45px;
+  padding-top: 0;
+}
+.bwd .custom-responsive #navigation ul {
+  height: 100%;
+}
+.bwd .custom-responsive #navigation ul li {
+  height: 100%;
+}
+
+.bwd .custom-responsive #wrapper.scroll #navigation ul {
+  height: 48px;
+}
+
+.bwd #wrapper .portlet-patronLogin .arena-logout-link {
+  top: 10px;
+}
+
+.bwd #wrapper #content-wrapper .portlet-navigation .list-menu ul > li:before {
+  content: "";
+}
+
+.bwd #wrapper .portlet-article--column3 {
+  width: 100%;
+  background: none repeat scroll 0 0 #fff;
+  border: 1px solid #e9e9e9;
+  border-radius: 4px;
+  padding: 20px;
+}
+
+.bwd a.arena-link-button, a:link.arena-link-button {
+  padding: 3px 10px;
+}
+
+.save-loan-history-label {
+  font-weight: normal;
+}
+
+.arena-profile-pickup-branch-label {
+  display: block;
+}
+
+#box-set .boxpuff1, #box-set .boxpuff2, #box-set .boxpuff3 {
+  background: #fff;
+  border: 1px solid #e9e9e9;
+  border-radius: 3px !important;
+  box-sizing: content-box;
+  clear: none;
+  float: left;
+  padding: 1%;
+  width: 29%;
+}
+
+.boxpuffbild a {
+  max-width: 100%;
+}
+
+#box-set .boxpuff1, #box-set .boxpuff2 {
+  margin-right: 3%;
+}
+
+.boxpuffbild {
+  box-sizing: content-box;
+  margin-bottom: -5px;
+}
+
+#box-set .boxpuff1 .boxpufftext, #box-set .boxpuff2 .boxpufftext, #box-set .boxpuff3 .boxpufftext {
+  padding: 12px 0.5% 2px;
+  font-weight: 700;
+}
+
+#box-set .boxpuff1 .boxpufftext a, #box-set .boxpuff2 .boxpufftext a, #box-set .boxpuff3 .boxpufftext a {
+  font-weight: 700;
+}
+
+@media only screen and (max-width: 1250px) {
+  #box-set .boxpuff1 .boxpufftext, #box-set .boxpuff2 .boxpufftext, #box-set .boxpuff3 .boxpufftext {
+    font-size: 0.9em;
+    font-weight: 700;
+    padding: 12px 0 2px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  #box-set .boxpuff1, #box-set .boxpuff2, #box-set .boxpuff3 {
+    background: none repeat scroll 0 0 #fff;
+    border: 1px solid #e9e9e9;
+    border-radius: 3px !important;
+    box-sizing: content-box;
+    clear: none;
+    float: none;
+    margin-bottom: 20px;
+    max-width: 240px;
+    padding: 2%;
+    width: 100%;
+  }
+}
+#p_p_id_56_INSTANCE_HysDD6Mxza0t_ {
+  margin-top: -25px;
+}
+
+.boxbild a {
+  max-width: 100%;
+}
+
+.frontsektion {
+  float: right;
+  width: 50%;
+}
+
+.fronttext {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.fronttext h1 {
+  margin: 24px 0 15px !important;
+  padding: 0;
+  border: none !important;
+  color: #76405d !important;
+  font-weight: 400 !important;
+}
+.pgbox-set .box1, .pgbox-set .box2, .pgbox-set .box3 {
+  background: #fff;
+  border: 1px solid #e9e9e9;
+  border-radius: 4px !important;
+  box-sizing: content-box;
+  clear: none;
+  float: left;
+  width: 31.07%;
+  overflow: hidden;
+  height: auto;
+  min-height: 216px;
+}
+
+.pgfront {
+  box-sizing: border-box;
+  height: auto;
+  overflow: hidden;
+}
+
+.pgbox-set .box1, .pgbox-set .box2 {
+  margin-right: 3%;
+}
+
+.pgbox-set .box1 .boxtext, .pgbox-set .box2 .boxtext, .pgbox-set .box3 .boxtext {
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  width: 92%;
+  margin-top: 10px;
+}
+
+.pgbox-set .box1 .boxtext a, .pgbox-set .box2 .boxtext a, .pgbox-set .box3 .boxtext a {
+  font-weight: 700 !important;
+  font-size: 1.1em !important;
+}
+
+.pgfront .frontsektion {
+  float: right;
+  width: 57%;
+}
+
+.pgfront .frontbild {
+  clear: none;
+  float: left;
+  width: 43%;
+  height: 310px;
+  overflow: hidden;
+  background-image: url("https://bibliotek.vellinge.se/documents/152635/871319/hollvikensagostundweb.jpg/6c1ec703-2174-4737-afc5-76463f0318a4?t=1542980926770");
+  /* lt ie8 */
+  -ms-background-position-x: center;
+  -ms-background-position-y: bottom;
+  background-position: -40px bottom;
+  /* scale bg image proportionately */
+  background-size: cover;
+  /* ie8 workaround - http://louisremi.github.io/background-size-polyfill/ */
+  /* prevent scaling past src width (or not) */
+}
+
+.frontlista ul li a:hover {
+  text-decoration: underline !important;
+  color: #333 !important;
+}
+
+.frontlista {
+  margin-bottom: -7px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 22px;
+  width: 73%;
+  -moz-column-count: 2;
+  -moz-column-gap: 0;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 0;
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  column-count: 2;
+  -webkit-column-gap: 0;
+  -moz-column-gap: 0;
+  column-gap: 0;
+}
+
+.frontlista > ul {
+  margin: 0 !important;
+}
+
+.frontlista ul li a {
+  font-weight: 700 !important;
+  color: #333 !important;
+}
+
+.frontlista ul li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+.frontlista ul li a:before {
+  padding-right: 3px;
+  display: inline-block;
+  content: "\f054";
+  font-family: 'FontAwesome';
+  font-style: normal;
+  font-weight: normal !important;
+  font-size: 12px;
+}
+
+/* INSTAGRAM */
+#instafeed {
+  margin: auto;
+  width: 97%;
+}
+
+#instafeed-box {
+  border: 1px solid #e7e7e7;
+  border-radius: 3px;
+  box-sizing: border-box;
+  max-width: 347px;
+  padding: 4px;
+  position: relative;
+  width: 100%;
+  background: #fff;
+}
+
+#instafeed-box h2 {
+  padding: 7px 10px 1px;
+}
+
+#instafeed-box #instafeed {
+  overflow: hidden;
+  padding: 1.5%;
+  width: 100%;
+  height: 536px;
+}
+
+#instafeed-box2 > div {
+  display: inline-block;
+  background-color: #fff;
+  border: 1px solid #e9e9e9;
+  border-radius: 3px;
+  width: 100%;
+}
+
+#instafeed-box2 {
+  width: 100%;
+  background-color: #fff;
+  margin-top: -15px;
+}
+
+#instafeed-box2 #instafeed #feedframe {
+  background-color: #fff;
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+  display: inline-block;
+  height: auto;
+  margin: 1.3%;
+  max-width: 332px;
+  min-height: 288px;
+  min-width: 203px;
+  overflow-y: hidden;
+  padding: 5px;
+  position: relative;
+  width: 30%;
+  box-sizing: border-box;
+}
+
+#instafeed-box2 #instafeed #feedframe p {
+  padding: 8px 5px;
+  margin: 0;
+  font-weight: 700;
+  font-size: 0.9em;
+  color: #555;
+}
+
+#instafeed .likes {
+  background: rgba(222, 89, 135, 0.8) none repeat scroll 0 0;
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 1em;
+  left: 5px;
+  height: 61%;
+  opacity: 0;
+  position: absolute;
+  right: 5px;
+  text-align: center;
+  text-shadow: 0 1px rgba(0, 0, 0, 0.5);
+  -webkit-font-smoothing: antialiased;
+  -webkit-transition: opacity 100ms ease;
+  -moz-transition: opacity 100ms ease;
+  -o-transition: opacity 100ms ease;
+  top: 5px;
+  -webkit-transition: opacity 100ms ease 0s;
+  transition: opacity 100ms ease 0s;
+  padding-top: 32%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding-left: 5%;
+  padding-right: 2%;
+}
+
+#instafeed a:hover .likes {
+  opacity: 1;
+}
+
+.insta-btn {
+  background-color: #ebebeb;
+  margin: 10px auto 14px;
+  padding: 8px;
+  width: 100%;
+  box-sizing: border-box;
+  -webkit-transition: background 0.3s linear 0s;
+  transition: background 0.3s linear 0s;
+  opacity: 1;
+  float: left;
+  text-align: center;
+}
+
+.insta-btn a {
+  cursor: pointer;
+  display: inline-block;
+  width: 100%;
+}
+
+.insta-btn:hover {
+  background: #d6d6d6;
+}
+
+.instafeed-text-top {
+  height: 30px;
+  margin-bottom: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 97%;
+}
+
+.instafeed-text-top p {
+  margin-bottom: 0 !important;
+  margin-left: 7px;
+  margin-top: 22px;
+  text-align: left;
+  color: #76405d;
+  font-size: 1.65em;
+}
+
+#instafeed a:first-child {
+  margin-left: -3px;
+}
+
+.insta-ruta {
+  border-bottom: 1px solid #e9e9e9;
+  margin-bottom: 14px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-bottom: 18px;
+  text-align: left;
+  width: 95%;
+}
+
+#load-more {
+  color: #333;
+}
+
+#instafeed-box3 .insta-ruta {
+  font-size: 1.05em;
+}
+
+.instafeed-text-bottom {
+  border-top: 1px solid #e9e9e9;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  padding-top: 6px;
+  width: 97%;
+}
+
+#load-more:before {
+  color: #666;
+  content: "\f055";
+  display: inline-block;
+  font-family: "FontAwesome";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal !important;
+  padding-right: 3px;
+}
+
+.instafeed-text-bottom > a {
+  background-color: white;
+  color: #78425f;
+  padding: 2px 8px;
+  position: relative;
+  top: -11px;
+  cursor: pointer;
+}
+
+.instafeed-text-bottom p {
+  margin-top: 10px;
+  text-align: justify;
+}
+
+.animation {
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  box-sizing: border-box;
+  clear: none;
+  display: block;
+  float: left;
+  height: 130px;
+  padding: 0.7%;
+  width: 32.4%;
+  margin-bottom: -22px;
+}
+
+.animation a {
+  margin: 0;
+}
+
+.instafeed-text {
+  border-top: 1px solid #e7e7e7;
+  padding: 10px 10px 0;
+  width: 100%;
+  margin-top: 10px;
+  box-sizing: border-box;
+}
+
+.instafeed-text > p {
+  padding-right: 20px;
+  margin-bottom: 10px !important;
+}
+
+/* INSTAGRAM */
+@media only screen and (max-width: 1300px) {
+  .frontlista {
+    margin: 23px auto -7px;
+    width: 72%;
+  }
+
+  .pgbox-set .box1, .pgbox-set .box2, .pgbox-set .box3 {
+    height: auto;
+    min-height: 230px;
+  }
+}
+@media only screen and (max-width: 1250px) {
+  .frontlista {
+    width: 78%;
+    margin: 14px auto -7px;
+  }
+
+  #instafeed-box2 {
+    margin-top: -30px !important;
+  }
+
+  .pgbox-set .box1, .pgbox-set .box2, .pgbox-set .box3 {
+    box-sizing: border-box !important;
+    clear: none !important;
+    float: left !important;
+    height: auto !important;
+    min-height: 162px !important;
+    margin-bottom: 20px !important;
+    width: 100% !important;
+  }
+
+  .pgbox-set .boxbild,
+  .boxbildbarn {
+    box-sizing: border-box;
+    display: block;
+    float: left;
+    margin-bottom: -5px;
+    width: 300px;
+  }
+
+  .pgbox-set .box1 .boxtext, .pgbox-set .box2 .boxtext, .pgbox-set .box3 .boxtext {
+    clear: none;
+    float: left;
+    padding: 8px 1.7%;
+    width: 48%;
+  }
+}
+@media only screen and (max-width: 1150px) {
+  .pgfront .frontbild {
+    width: 42%;
+  }
+
+  .pgfront .frontsektion {
+    width: 58%;
+  }
+
+  .frontlista {
+    margin: auto;
+    width: 85%;
+  }
+}
+@media only screen and (max-width: 1050px) {
+  .pgfront .frontbild {
+    width: 40%;
+    background-position: -65px;
+  }
+
+  .pgfront .frontsektion {
+    float: right;
+    width: 60%;
+  }
+
+  .frontlista {
+    margin-left: 14px;
+    width: 93%;
+  }
+}
+@media only screen and (max-width: 1025px) {
+  .frontlista {
+    margin-left: 18px;
+  }
+
+  #p_p_id_56_INSTANCE_HysDD6Mxza0t_ {
+    margin-top: -40px !important;
+  }
+
+  #p_p_id_56_INSTANCE_mDOcE6esimBC_ .portlet {
+    margin-top: -35px !important;
+    margin-bottom: 8px !important;
+  }
+}
+@media only screen and (max-width: 960px) {
+  .pgfront .frontbild {
+    width: 43%;
+    background-position: center bottom;
+  }
+
+  #portlet_listArticleView_WAR_arenaportlets_INSTANCE_sR5Y5DdtY5GI {
+    margin-top: -10px !important;
+  }
+
+  .pgfront .frontsektion {
+    width: 57%;
+  }
+
+  .pgbox-set .box1, .pgbox-set .box2 {
+    margin-right: 2%;
+  }
+
+  .pgbox-set .box1 .boxtext, .pgbox-set .box2 .boxtext, .pgbox-set .box3 .boxtext {
+    height: 252px;
+    margin-bottom: 0px;
+    width: 100%;
+  }
+
+  .frontlista {
+    margin: 25px auto auto;
+    width: 74%;
+  }
+
+  .pgbox-set .box1, .pgbox-set .box2, .pgbox-set .box3 {
+    height: 252px !important;
+    width: 32% !important;
+    margin-bottom: 0px !important;
+  }
+
+  .frontlista ul li a {
+    font-size: 1em !important;
+  }
+}
+@media only screen and (max-width: 840px) {
+  .pgbox-set .box1, .pgbox-set .box2, .pgbox-set .box3 {
+    height: auto !important;
+    width: 100% !important;
+    padding-bottom: 12px !important;
+    margin-bottom: 20px !important;
+  }
+
+  .pgbox-set .boxbild {
+    padding: 0 !important;
+    width: 300px !important;
+  }
+
+  .pgbox-set .box1, .pgbox-set .box2, .pgbox-set .box3 {
+    height: 162px !important;
+  }
+
+  #instafeed-box2 {
+    margin-top: -55px !important;
+  }
+
+  .pgbox-set .box1 .boxtext, .pgbox-set .box2 .boxtext, .pgbox-set .box3 .boxtext {
+    clear: none !important;
+    float: left !important;
+    padding: 4px 10px !important;
+    width: 40% !important;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .frontlista {
+    margin: 18px auto auto;
+    width: 84%;
+  }
+}
+@media only screen and (max-width: 700px) {
+  .pgfront .frontsektion {
+    float: right;
+    width: 100%;
+  }
+
+  .frontlista > ul {
+    line-height: 26px;
+  }
+
+  .frontlista {
+    -moz-column-count: 1;
+    -moz-column-gap: 0;
+    -webkit-column-count: 1;
+    -webkit-column-gap: 0;
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+    -webkit-column-gap: 0;
+    -moz-column-gap: 0;
+    column-gap: 0;
+    clear: none;
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-top: 5px;
+    width: 45%;
+  }
+
+  .frontlista {
+    max-width: 200px;
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 580px) {
+  .pgbox-set .box1, .pgbox-set .box2, .pgbox-set .box3 {
+    max-width: 300px !important;
+    min-height: 252px !important;
+  }
+
+  .pgbox-set .box1 .boxtext, .pgbox-set .box2 .boxtext, .pgbox-set .box3 .boxtext {
+    padding: 10px 10px 0 8px !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+  }
+}
+@media only screen and (max-width: 440px) {
+  #instafeed-box2 #instafeed #feedframe {
+    width: 100%;
+  }
+}
+.ie #content-wrapper .portlet-articlesFacets .arena-field-subtitle {
+  padding-bottom: 15px;
+}
+
+#content-wrapper .staffpick-entry a,
+#content-wrapper .staffpick-detail a {
+  text-decoration: none;
+}
+
+.staffpick-list-author,
+.staffpick-article-author {
+  font-style: italic;
+}
+
+.staffpick-article .cover-column {
+  margin-bottom: 10px;
+}
+
+#content-wrapper .portlet-catalogueDetail {
+  /* --Adjust action button in eMedia box-- */
+}
+#content-wrapper .portlet-catalogueDetail .arena-ehub {
+  background-color: black;
+  color: white;
+  margin-bottom: 5px;
+  padding: 10px;
+  text-decoration: none;
+}
+#content-wrapper .portlet-catalogueDetail .arena-ehub:before {
+  color: black;
+  height: 0;
+  width: 0;
+}
+
+@media only screen and (max-width: 481px) {
+  #content-wrapper .portlet-catalogueDetail div.arena-detail-left {
+    width: 80%;
+  }
+}
+@media only screen and (max-width: 1025px) {
+  .bwd .custom-responsive #wrapper #navigation.active ul {
+    height: auto;
+    margin: 0;
+    width: 100%;
+  }
+  .bwd .custom-responsive #wrapper #navigation.active ul li {
+    height: auto;
+  }
+  .bwd .custom-responsive #wrapper #navigation.active ul li .parent-link {
+    border: none;
+    line-height: 37px !important;
+  }
+}
+.custom-responsive #content-wrapper .portlet-listArticleView.veckanstips .arena-record-container img {
+  float: left;
+  clear: none;
+  margin: 4px 15px 2px 0 !important;
+  width: 110px !important;
+  height: auto !important;
+}
+.custom-responsive #content-wrapper .portlet-listArticleView.veckanstips .arena-record-container p a {
+  text-decoration: underline;
+}
+.custom-responsive #content-wrapper .portlet-listArticleView.veckanstips .arena-record-container p a:hover {
+  text-decoration: none;
+}
+
+.custom-responsive #content-wrapper .portlet-listArticleView.veckanstips .arena-record-container .arena-record .img-link::before {
+  content: none;
+}
+
+#content-wrapper .portlet-listArticleView.veckanstips .arena-articledet-title {
+  font-size: 1.25em;
+  margin-bottom: 15px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #ccc;
+}
+
+.imgLeft {
+  clear: none;
+  float: left;
+  margin: 5px 10px 10px 0;
+  width: auto;
+}
+
+.bwd #column-3 .portlet-journal-content .portlet-topper-arena-go .portlet-title-text {
+  color: #76405d !important;
+  font-size: 1.5em !important;
+  padding-top: 4px;
+}
+
+.bwd #column-3 .portlet-journal-content .portlet-topper-arena-go {
+  border-bottom: 1px solid #e7e7e7;
+  padding-left: 12px;
+}
+
+.bwd #content-wrapper .arena-columns-1-2-1-2-1 .row {
+  max-width: none;
+}
